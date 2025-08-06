@@ -1,1 +1,1 @@
-# gkbo-reekse
+# GKBO Reekse
