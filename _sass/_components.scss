@@ -178,6 +178,216 @@ code {
   top: 0;
   z-index: 1000;
   background-color: $color-background;
+  
+  // Hide desktop navigation on mobile
+  @media (max-width: $breakpoint-lg) {
+    .right-lg {
+      display: none;
+    }
+  }
+}
+
+// Hide home page navigation on mobile
+@media (max-width: $breakpoint-lg) {
+  .right.absolute-lg {
+    display: none;
+  }
+  
+  // Scale down all header sizes to 80% on mobile
+  .h0, h1, .h1 {
+    transform: scale(0.8) !important;
+    transform-origin: left top !important;
+  }
+  
+  .h2, h2 {
+    transform: scale(0.8) !important;
+    transform-origin: left top !important;
+  }
+  
+  .h3, h3 {
+    transform: scale(0.8) !important;
+    transform-origin: left top !important;
+  }
+  
+  .h4, h4 {
+    transform: scale(0.8) !important;
+    transform-origin: left top !important;
+  }
+  
+  .h5, h5 {
+    transform: scale(0.8) !important;
+    transform-origin: left top !important;
+  }
+  
+  .h6, h6 {
+    transform: scale(0.8) !important;
+    transform-origin: left top !important;
+  }
+  
+  // Reduce vertical spacing on mobile for home page
+  .header-text {
+    margin-top: $spacer-2 !important;
+    margin-bottom: $spacer-1 !important;
+    
+    .header-title {
+      margin-top: $spacer-2 !important;
+      padding-top: $spacer-1 !important;
+      padding-bottom: $spacer-1 !important;
+    }
+    
+    .clearfix {
+      margin-bottom: $spacer-2 !important;
+      padding-top: $spacer-1 !important;
+      padding-bottom: $spacer-1 !important;
+    }
+  }
+  
+  // Reduce spacing between course/lesson blocks on mobile
+  .prose {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    margin-bottom: $spacer-1 !important;
+    
+    // Reduce spacing inside the blocks
+    h2 {
+      margin-bottom: $spacer-1 !important;
+    }
+    
+    p {
+      margin-bottom: $spacer-1 !important;
+    }
+    
+    .h5 {
+      padding-top: 0 !important;
+      padding-bottom: 0 !important;
+      margin-bottom: $spacer-1 !important;
+    }
+  }
+}
+
+// Mobile hamburger menu
+.mobile-menu-toggle {
+  display: none;
+  
+  @media (max-width: $breakpoint-lg) {
+    display: block;
+  }
+}
+
+.hamburger-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: $spacer-1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+  height: 30px;
+  
+  &:focus {
+    outline: none;
+  }
+}
+
+.hamburger-line {
+  width: 20px;
+  height: 2px;
+  background-color: $color-body-text;
+  margin: 2px 0;
+  transition: 0.3s;
+  border-radius: 1px;
+}
+
+// Mobile navigation menu
+.mobile-nav-menu {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: $color-background;
+  z-index: 999;
+  overflow-y: auto;
+  
+  @media (max-width: $breakpoint-lg) {
+    &.active {
+      display: block;
+    }
+  }
+  
+  @media (min-width: $breakpoint-lg) {
+    display: none !important;
+  }
+}
+
+.mobile-nav-list {
+  list-style: none;
+  margin: 0;
+  padding: $spacer-4 $spacer-2 $spacer-2 $spacer-2;
+  margin-top: 50px; // Space for close button
+}
+
+.mobile-nav-item {
+  margin-bottom: $spacer-2;
+  border-bottom: 1px solid $color-border;
+  padding-bottom: $spacer-2;
+  
+  a {
+    color: $color-nav-link;
+    text-decoration: none;
+    font-size: 18px;
+    
+    &:hover {
+      color: $color-primary-link;
+    }
+  }
+}
+
+.mobile-course-lessons {
+  list-style: none;
+  margin: $spacer-1 0 0 $spacer-2;
+  padding: 0;
+}
+
+.mobile-lesson-item {
+  margin-bottom: $spacer-1;
+  
+  a {
+    font-size: 16px;
+    color: $color-nav-link;
+    
+    &:hover {
+      color: $color-primary-link;
+    }
+    
+    &.active {
+      font-weight: bold;
+      color: $color-primary-link;
+    }
+  }
+}
+
+// Close button for mobile menu
+.mobile-nav-menu::before {
+  content: '×';
+  position: fixed;
+  top: $spacer-2;
+  right: $spacer-2;
+  font-size: 30px;
+  cursor: pointer;
+  color: $color-body-text;
+  z-index: 1001;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: $color-background;
+  border: 1px solid $color-border;
+  border-radius: 3px;
 }
 
 // Expanded course lessons in header menu
@@ -206,5 +416,12 @@ code {
       font-weight: bold;
       color: $color-primary-link;
     }
+  }
+}
+
+// Hide back/forward navigation on mobile
+@media (max-width: $breakpoint-lg) {
+  .col-4.sm-width-full {
+    display: none;
   }
 }

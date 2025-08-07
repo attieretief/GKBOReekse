@@ -1,4 +1,61 @@
 <header class="px-2 clearfix sticky-header">
+  <!-- Mobile hamburger menu button -->
+  <div class="mobile-menu-toggle absolute right-0 top-0 mt-2 mr-2">
+    <button class="hamburger-btn" onclick="toggleMobileMenu()">
+      <span class="hamburger-line"></span>
+      <span class="hamburger-line"></span>
+      <span class="hamburger-line"></span>
+    </button>
+  </div>
+  
+  <!-- Mobile navigation menu (hidden by default) -->
+  <div class="mobile-nav-menu">
+    <ul class="mobile-nav-list">
+      <li class="mobile-nav-item">
+        <a class="italic h4 bold no-underline" href="{{ site.baseurl }}/">
+          {{ site.title }}
+        </a>
+      </li>
+      {% for my_page in site.pages %}
+        {% if my_page.title and (my_page.layout == "page" or my_page.layout == "course") %}
+        <li class="mobile-nav-item">
+          <a class="italic no-underline h4" href="{{ my_page.url | prepend: site.baseurl }}">
+            {{ my_page.title }}
+          </a>
+          
+          <!-- Show lessons for current course in mobile menu too -->
+          {% assign current_course = false %}
+          {% if page.layout == "course" and page.course_name == my_page.course_name %}
+            {% assign current_course = true %}
+          {% elsif page.layout == "lesson" and page.course == my_page.course_name %}
+            {% assign current_course = true %}
+          {% endif %}
+          
+          {% if current_course %}
+            {% if my_page.course_name == "woordelys" %}
+              {% assign lessons = site.pages | where: "course", my_page.course_name | where_exp: "item", "item.lesson != nil" | sort: "title" %}
+            {% else %}
+              {% assign lessons = site.pages | where: "course", my_page.course_name | where_exp: "item", "item.lesson != nil" | sort: "lesson" %}
+            {% endif %}
+            {% if lessons.size > 0 %}
+            <ul class="mobile-course-lessons">
+              {% for lesson in lessons %}
+              <li class="mobile-lesson-item">
+                <a class="italic no-underline {% if lesson.url == page.url %}active{% endif %}" href="{{ lesson.url | prepend: site.baseurl }}">
+                  {{ lesson.title }}
+                </a>
+              </li>
+              {% endfor %}
+            </ul>
+            {% endif %}
+          {% endif %}
+        </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+  
+  <!-- Desktop navigation menu -->
   <div class="right-lg absolute-lg right-0 top-0">
     <ul class="mt-1 mt-lg-2 mr-2 mr-lg-3">
       <li class="inline-block block-lg text-right ml-1 ml-lg-0">
