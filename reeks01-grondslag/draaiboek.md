@@ -1,6 +1,12 @@
+---
+layout: lesson
+course: reeks01-grondslag
+lesson: 99
+title:  "Draaiboek"
+---
 # Draaiboek
 
-**🎬 Skyfie 1 – Titelblad: Reeks Oorsig – Die Werklikheid van God**
+**Skyfie 1 – Titelblad: Reeks Oorsig – Die Werklikheid van God**
 
 *"Vriende, ek wil julle welkom heet op ’n reis wat nie net ons verstand gaan uitdaag nie, maar ons harte gaan aanraak. Ons gaan saam stilstaan by vrae wat die mensdom al van die begin af vra: Wie is God regtig? Hoekom bestaan daar iets eerder as niks? En waarom dra ons almal ’n verlange na meer as wat hierdie wêreld kan bied?*
 
@@ -10,7 +16,7 @@
 
 ---
 
-**🎬 Skyfie 2 – Doel en Gehoor**
+**Skyfie 2 – Doel en Gehoor**
 
 *"Ons het almal al daar gesit – in die kerkbank, in ’n koffiewinkel, of in ’n gesprek met ’n vriend – en gedink: Ek wens ek kon my geloof duideliker verduidelik. Ek wens ek kon beter verstaan hoekom ek glo wat ek glo… en hoe om eerlik op moeilike vrae te antwoord.*
 
@@ -22,7 +28,7 @@
 
 ---
 
-**🎬 Skyfie 3 – Kernbeginsels van die Aanslag**
+**Skyfie 3 – Kernbeginsels van die Aanslag**
 
 *"Elke reis het ’n kompas nodig – iets wat jou help om koers te hou en nie van die pad af te dwaal nie. Hierdie reeks het vier sulke kompaspunte wat ons deur elke sessie gaan dra.*
 
@@ -38,7 +44,7 @@
 
 ---
 
-**🎬 Skyfie 4 – Programroete: 8 Sessies**
+**Skyfie 4 – Programroete: 8 Sessies**
 
 *"Ons reis het agt hoofstappe – agt temas wat soos bakens langs ’n pad staan. Elke een neem ons dieper in ons verstaan van God en van onsself.*
 
@@ -62,7 +68,7 @@
 
 ---
 
-**🎬 Sessie 1 – Wat bedoel ons met ‘God’?**
+**Sessie 1 – Wat bedoel ons met ‘God’?**
 
 *"Ons begin waar elke goeie reis behoort te begin – by die vraag wat alles vorm: As ons ‘God’ sê, wat bedoel ons regtig? Want as ons nie hier duidelik is nie, bou ons die hele gebou op ’n wankelrige fondament.*
 
@@ -74,7 +80,7 @@
 
 ---
 
-**🎬 Sessie 2 – Moderne wanopvattings oor God**
+**Sessie 2 – Moderne wanopvattings oor God**
 
 *"As ek vandag vir tien verskillende mense vra om vir my te beskryf wie of wat hulle dink ‘God’ is, sal ek waarskynlik tien verskillende antwoorde kry – en sommige van hulle sal niks te doen hê met die God van die Bybel nie.*
 
@@ -86,7 +92,7 @@
 
 ---
 
-**🎬 Sessie 3 – Hoekom is daar iets eerder as niks?**
+**Sessie 3 – Hoekom is daar iets eerder as niks?**
 
 *"Stel jou voor: Alles wat jy ken – elke ster, elke boom, elke asemteug – verdwyn. Geen ruimte, geen tyd, geen materie… net niks. En dan vra jy: Hoekom is daar vandag nie steeds net niks nie? Hoekom is daar ’n heelal, en ons binne-in dit?*
 
@@ -100,7 +106,7 @@
 
 ---
 
-**🎬 Sessie 4 – Transendensie en Immanensie**
+**Sessie 4 – Transendensie en Immanensie**
 
 *"Wanneer ons oor God praat, moet ons twee waarhede gelyk vashou – en dis nie altyd maklik nie. Aan die een kant is God **transendent**: Hy is verhewe bo alles wat Hy gemaak het. Hy is nie deel van die skepping soos ’n planeet of ’n ster nie; Hy is die Skepper daarvan. Hy staan bo ruimte en tyd, onbeperk, oneindig. Soos Salomo gesê het toe hy die tempel ingewy het: *‘Die hemel, selfs die hoogste hemel, kan U nie bevat nie.’* Dit is God se verhewenheid – Sy anderheid, Sy majesteit.*
 
@@ -112,7 +118,7 @@
 
 ---
 
-**🎬 Sessie 5 – Die raaisel van bewussyn**
+**Sessie 5 – Die raaisel van bewussyn**
 
 *"Sluit jou oë vir ’n oomblik en dink aan die kleur rooi. Jy sien dit in jou gedagtes, jy kan dit amper voel. Of dink aan die geur van vars brood – jy kan dit ruik sonder dat daar brood in die kamer is. Hierdie vermoë om te ervaar, te dink, te onthou en te sê ‘ek’ – dit noem ons **bewussyn**. Maar wat is dit, en hoekom het ons dit?*
 
@@ -124,7 +130,7 @@
 
 ---
 
-**🎬 Sessie 6 – Gerigtheid, moraliteit en doel**
+**Sessie 6 – Gerigtheid, moraliteit en doel**
 
 *"Het jy al gewonder hoekom ons gedagtes altyd oor íéts gaan? Jy dink aan jou huis, jy droom van ’n vakansie, jy beplan môre se werk – jou denke is altyd gerig op ’n voorwerp, ’n idee, ’n doel. Filosowe noem dit **intentionaliteit** – die ‘oor’- of ‘na’-aard van ons gedagtes. Maar hier’s die vraag: hoe kan blote materie, soos ’n neuron of ’n rots, ooit ‘oor’ iets wees? ’n Rots is net ’n rots – hy dink nie oor jou nie. Tog kan jy oor die rots dink.*
 
@@ -136,7 +142,7 @@
 
 ---
 
-**🎬 Sessie 7 – Die verlange na God**
+**Sessie 7 – Die verlange na God**
 
 *"Daar is ’n sekere soort honger wat niks in hierdie wêreld kan stil nie. Jy het dit dalk al gevoel ná ’n groot prestasie – jy kry jou graad, jou droompos, jou huis… en tog, ’n week later, voel jy daardie onverwagte leemte. Of jy beleef ’n oomblik van skoonheid – musiek wat jou vel laat tintel, sonlig wat deur bome breek – en vir ’n paar sekondes voel dit amper volmaak… maar dan glip dit weg.*
 
@@ -148,7 +154,7 @@
 
 ---
 
-**🎬 Sessie 8 – Soek en ervaar God**
+**Sessie 8 – Soek en ervaar God**
 
 *"Ons het nou ’n lang pad saam gestap – van die vraag wie God is, deur die wanbeelde wat Hom verduister, tot by die diepste vrae oor bestaan, bewussyn, moraliteit en ons verlange na meer. Maar alles wat ons tot dusver ontdek het, is nie bedoel om net in jou kop te bly nie. Dit moet jou lei na ’n ontmoeting.*
 
@@ -160,7 +166,7 @@
 
 ---
 
-**🎬 Verwagte uitkomste vir deelnemers**
+**Verwagte uitkomste vir deelnemers**
 
 *"Teen die einde van hierdie reeks hoop ek dat jy iets baie belangriks ontdek het: dat geloof in God nie ’n blinde sprong in die donker is nie, maar ’n stap in die lig. Jy behoort nou ’n stewiger begrip te hê van wie God is, waarom dit sin maak om in Hom te glo, en hoe alles – van die sterre in die hemel tot die stem van jou gewete – terugwys na Hom.*
 
@@ -170,7 +176,7 @@
 
 ---
 
-**🎬 Hoe dit inpas in toekomstige reekse**
+**Hoe dit inpas in toekomstige reekse**
 
 *"Wat ons hier saam begin het, is net die fondament. In die reekse wat volg, gaan ons dieper inbeweeg in vrae wat ons geloof nog meer sal slyp en verdiep.*
 

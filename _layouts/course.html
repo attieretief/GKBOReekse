@@ -1,0 +1,14 @@
+---
+layout: page
+---
+
+{% assign course_name = page.course_name %}
+
+{% youtube page.youtubeurl %}
+
+<div class="container mx-auto">
+  {% assign lessons = site.pages | where: "course", course_name | where_exp: "item", "item.lesson != nil" | sort: "lesson" %}
+  {% for page in lessons %}
+    {% include lesson_block.html %}
+  {% endfor %}
+</div>

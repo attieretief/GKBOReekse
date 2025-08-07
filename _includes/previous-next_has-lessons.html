@@ -1,0 +1,39 @@
+<!-- Use if you want to show previous and next for lessons within a course. -->
+{% if page.course %}
+  {% assign course = page.course %}
+  {% assign lessons = site.pages | where: "course", course | sort: "lesson"%}
+  {% for lesson in lessons %}
+    {% if lesson.url == page.url %}
+      {% assign course_index0 = forloop.index0 %}
+      {% assign course_index1 = forloop.index %}
+    {% endif %}
+  {% endfor %}
+  {% for lesson in lessons %}
+    {% if course_index0 == forloop.index %}
+      {% assign prev_lesson = lesson %}
+    {% endif %}
+    {% if course_index1 == forloop.index0 %}
+      {% assign next_lesson = lesson %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+{% assign user_url = site.url | append: site.baseurl %}
+{% assign full_base_url = user_url | default: site.github.url %}
+{% if prev_lesson %}
+<div class="col-4 sm-width-full left mr-lg-4 mt-3">
+  <a class="no-underline-hover py-1 block" href="{{ prev_lesson.url | prepend: full_base_url }}">
+    <span class="h5 bold chevron-left">Vorige</span>
+    <p class="bold h3 link-primary mb-1">{{ prev_lesson.title }}</p>
+    <p>{{ prev_lesson.content | markdownify | strip_html | truncatewords:30 }}</p>
+  </a>
+</div>
+{% endif %}
+{% if next_lesson %}
+<div class="col-4 sm-width-full right mt-3">
+  <a class="no-underline-hover py-1 block right" href="{{ next_lesson.url | prepend: full_base_url }}">
+    <span class="h5 bold chevron-right">Volgende</span>
+    <p class="bold h3 link-primary mb-1">{{ next_lesson.title }}</p>
+    <p>{{ next_lesson.content | markdownify | strip_html | truncatewords:30}}</p>
+  </a>
+</div>
+{% endif %}

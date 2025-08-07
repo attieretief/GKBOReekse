@@ -1,12 +1,10 @@
-# Die Grondslag van ons Wêreldbeskouing: A Metafisiese Ontdekking van God
-
-```
-'n Besprekingsreeks wat die grondslag van die Christelike wêreldbeskouing verken, saamgestel deur Attie Retief in 2025, vir gebruik deur 'n besprekingsgroep van die GBKO (Gereformeerde Kerk Bellville Oos)
-```
-
-==Kopiereg © Attie Retief, 2025==
-
-===
+---
+layout: lesson
+course: reeks01-grondslag
+lesson: 1
+title:  "Oorsig"
+---
+# 'n Metafisiese Ontdekking van God
 
 ## Inleiding
 
@@ -25,6 +23,8 @@ Die klassieke Christelike verstaan van God is uniek: “God” is nie maar net n
 > “God is ’n Gees, oneindig, ewig en onveranderlik in sy wese, wysheid, krag, heiligheid, geregtigheid, goedheid en waarheid.”
 
 Wanneer ons dit reg verstaan, kan ons ook met meer insig reageer op moderne besware. Baie skeptici rig hulle kritiek op ’n **strooipop**-God — ’n karikatuur van God as ’n lukrake “man in die hemel” — en mis heeltemal die ware Bybelse begrip. Hierdie reeks wil ons help om dié wanpersepsies te herken, geduldig reg te stel, en te vervang met ’n visie van God wat gegrond is in Skrif, rede en die wysheid van die kerk deur die eeue.
+
+---
 
 ### Ons roetekaart vir die reis
 
@@ -47,11 +47,9 @@ Daarom benader ons hierdie reeks nie as ’n koue intellektuele oefening nie, ma
 
 Bring jou Bybel. Bring jou vrae. Bring jou hele hart. En kom ons stap hierdie pad in nederigheid, nuuskierigheid, en die sekerheid dat alle waarheid God se waarheid is.
 
-===
+---
 
 ## **Sessie 1 – Wat bedoel ons met “God”?**
-
-**Tema:** Die Bybelse en klassieke verstaan van God teenoor moderne wanpersepsies.
 
 ### **Oorsig**
 
@@ -89,9 +87,9 @@ Ons eerste stap in hierdie reeks is dus om saam te herontdek: die God wat ons be
 * Alvin Plantinga – *God and Other Minds* (inleiding)
 * Augustinus – *Confessiones* (uittreksels uit Boek I)
 
-===
+---
 
-## Sessie 2: **Om Mites te Ontmasker – Moderne Wanopvattings oor God**
+## Sessie 2: **Ontmasker die Mites – Moderne Wanopvattings oor God**
 
 ### **Oorsig:**
 
@@ -127,7 +125,7 @@ Jesaja 55:8–9 (God se weë en gedagtes hoër as ons s’n); Handelinge 17:29 (
 * **Edward Feser – *Five Proofs of the Existence of God*, Inleiding:** Feser (’n filosoof) bespreek kortliks algemene besware en beklemtoon dat ’n mens moet verstaan wat die term “God” in klassieke filosofie beteken, om mekaar nie mis te verstaan nie.
 * **R.C. Sproul – *The Character of God*** (video of boekie) – Sproul, vanuit ’n Gereformeerde perspektief, verduidelik God se eienskappe op ’n pastorale manier en spreek dikwels wanopvattings aan soos dat “God net ’n groter weergawe van ons is.”
 
-===
+---
 
 ## Sessie 3: **“Hoekom is daar iets eerder as niks?” – Die Vraag na Bestaan**
 
@@ -162,7 +160,7 @@ Handelinge 17:24–28 (Paulus verkondig God as Skepper van die wêreld, wat lewe
 * **William Lane Craig – *Reasonable Faith*, hoofstuk 3 (Kosmologiese Argument):** Craig verduidelik die Kalam-kosmologiese argument (gefokus op die begin van die heelal) en beantwoord algemene besware. Hierdie leesstof raak ook aan wetenskaplike bewyse vir die heelal se begin.
 * **John Piper – “The Great I AM” (Preek oor Eksodus 3:14):** ’n Pastorale nadenke wat God se self-bestaan beklemtoon en wat dit vir ons beteken dat God eenvoudig *is*. Help om die filosofiese konsep aan toewyding en aanbidding te verbind.
 
-===
+---
 
 ## Sessie 4: **God as die Werklikheid agter alle Werklikhede (Transendensie en Immanensie)**
 
@@ -199,7 +197,7 @@ Jes. 57:15 (“Die Hoë en Verhewe Een … wat ook woon by die verbreekte en ned
 * **A.W. Tozer – *The Pursuit of God*, Hoofstuk 14 “The Universal Presence”:** ’n Toegewyde, hartgerigte bespreking oor die beoefening van God se teenwoordigheid.
 * **Credo Magazine-artikel: “Not a Cistern, but a Fountain” deur J.V. Fesko:** ’n Toeganklike verduideliking van klassieke Christelike metafisika, insluitend die idee dat God nie ’n wese onder ander is nie, maar die bron van alle wese — met insigte uit Gereformeerde teoloë wat dit bevestig.
 
-===
+---
 
 ## Sessie 5: **Die Raaisel van Gees en Bewussyn**
 
@@ -239,7 +237,7 @@ Genesis 1:27 (mense geskape na God se beeld); Spreuke 20:27 (die menslike gees a
 * **C.S. Lewis – *Miracles*, Hoofstuk 3–4:** Lewis bied sy “argument uit rede” aan. Hy verduidelik waarom, as die wêreld net uit atome bestaan, ons geen rede sou hê om ons redenasie te vertrou nie – wat dus na iets bo die natuur wys wat rede onderlê.
 * **Alvin Plantinga – “Evolutionary Argument Against Naturalism”** (kort opsommings is beskikbaar aanlyn) – Plantinga se argument kan tegnies wees, maar baie samevattings bestaan. Dit versterk die punt dat blinde evolusie plus materie alleen nie ware oortuigings waarborg nie, en dus indirek steun bied vir die idee dat ons redenasievermoë van ’n rasionele Bron kom.
 
-===
+---
 
 ## Sessie 6: **Die Menslike Soeke na Sin – Gerigtheid, Moraliteit en Doel**
 
@@ -274,7 +272,7 @@ Romeine 2:14–15 (gewete en die morele wet op die hart); Prediker 3:11 (“Hy h
 * **Viktor Frankl – *Man’s Search for Meaning***: Al is dit nie ’n teologieboek nie (Frankl was ’n psigoterapeut en oorlewende van die Holocaust), verken dit kragtig die mens se behoefte aan doel. Dit ondersteun indirek die idee dat ons “sin-soekende” wesens is op ’n manier wat verder strek as blote oorlewing.
 * **Tim Keller – *Making Sense of God*, Hoofstuk 6: “Morality”** – Keller spreek moderne mense aan wat glo in menseregte en geregtigheid, maar nie in God nie, en wys op die spanning daarvan, terwyl hy uitnooi tot ’n heroorweging van ’n goddelike grondslag vir morele waardes.
 
-===
+---
 
 ## Sessie 7: **“U het ons vir Uself gemaak” – Die Verlange na God (Saligheid of Volmaakte Vreugde)**
 
@@ -313,7 +311,7 @@ Psalm 42:1–2 (die siel wat dors na God soos ’n wildsbok na water); Psalm 16:
 * **C.S. Lewis – *The Weight of Glory* (essay):** Lewis praat hier oor ons begeertes as wysers na die hemel. Hy sê ons begeertes is nie te sterk nie, maar te swak – ons speel met minderwaardige plesier terwyl oneindige vreugde vir ons aangebied word. Inspirasievol en relevant.
 * **Peter Kreeft – *“The Argument from Desire”*** (kort artikel of hoofstuk in *Handbook of Christian Apologetics*): Kreeft, ’n filosoof, bied ’n stap-vir-stap weergawe van die argument dat ongevulde aardse begeertes die bestaan van God en die hemel impliseer. Baie nuttig vir ’n sistematiese begrip.
 
-===
+---
 
 ## Sessie 8: **Einde van die Reis – en Begin van die Reis: Om God te Soek en te Ervaar**
 
@@ -354,7 +352,7 @@ Jer. 29:13 (“Julle sal My soek en vind as julle My met julle hele hart soek”
 * **J.I. Packer – *Knowing God* (veral hoofstukke 2 en 3):** Packer onderskei tussen kennis *oor* God en kennis *van* God, en moedig gelowiges aan om laasgenoemde te soek. ’n Uitstekende devo­sionele teologieboek.
 * **Johannes Calvyn – *Institusie*, Boek III, hfst. 2 (“Oor Geloof”):** Ná al sy leerstellige verduidelikings bespreek Calvyn hoe die Heilige Gees geloof werk, wat die gelowige aan Christus verbind – ’n werk wat bo blote menslike rede uitstyg, maar nie daarmee bots nie.
 
-===
+---
 
 ## **Laaste Gedagte:**
 
@@ -362,7 +360,3 @@ Ons metafisiese ondersoek is soos om op die strand te staan en uit te kyk oor di
 
 *“Hoër as my hoogste, nader as my innerlikste self – o God, U is my God.”* Amen.
 
----
-Annotations: 0,60705 SHA-256 9fa12ed8e1bc62adef87904dde721076  
-@Attie Retief <attie@attieretief.com>: 0,328 1412,21 1447 6335 6974,6 7104,6 10821 16830 16836 29988 59954,3 59964,6  
-...
