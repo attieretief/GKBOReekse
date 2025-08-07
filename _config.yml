@@ -14,12 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Wêreldbeskouing
-subtitle: ‘n Versameling van gespreksgidse oor die Christelike geloof
+subtitle: "'n Versameling van gespreksgidse oor die Christelike geloof"
 description: saamgestel deur Attie Retief vir gebruik deur besprekingsgroepe van die Gereformeerde Kerk Bellville Oos
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-github_repo:  # the GitHub repo name for your project
-github_username: # your GitHub username
+# GitHub Pages will automatically set baseurl to the repository name
+# For local development, use empty baseurl
+baseurl: "/GKBOReekse" # the subpath of your site, e.g. /blog
+url: "https://attieretief.github.io" # the base hostname & protocol for your site
+github_repo: GKBOReekse # the GitHub repo name for your project
+github_username: attieretief # your GitHub username
 owner: Attie Retief
 
 # Optional social link, you can choose from the following options:
@@ -36,12 +38,12 @@ markdown: kramdown
 
 # GitHub Pages only supports these plugins:
 # https://pages.github.com/versions/
-# plugins:
-#   - jekyll-default-layout
-#   - jekyll-optional-front-matter
-#   - jekyll-readme-index
-#   - jekyll-relative-links
-#   - jekyll-titles-from-headings
+plugins:
+  - jekyll-default-layout
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-relative-links
+  - jekyll-titles-from-headings
 
 collections:
   courses:

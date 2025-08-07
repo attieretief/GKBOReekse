@@ -1,0 +1,3 @@
+# Configuration overrides for GitHub Pages deployment
+baseurl: "/GKBOReekse"
+url: "https://attieretief.github.io"
