@@ -12,7 +12,11 @@ layout: page
 {% endif %}
 
 <div class="container mx-auto">
-  {% assign lessons = site.pages | where: "course", course_name | where_exp: "item", "item.lesson != nil" | sort: "lesson" %}
+  {% if course_name == "woordelys" %}
+    {% assign lessons = site.pages | where: "course", course_name | where_exp: "item", "item.lesson != nil" | sort: "title" %}
+  {% else %}
+    {% assign lessons = site.pages | where: "course", course_name | where_exp: "item", "item.lesson != nil" | sort: "lesson" %}
+  {% endif %}
   {% for page in lessons %}
     {% include lesson_block.html %}
   {% endfor %}

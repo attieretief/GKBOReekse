@@ -171,3 +171,40 @@ code {
     border: 0;
   }
 }
+
+// Sticky header
+.sticky-header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background-color: $color-background;
+}
+
+// Expanded course lessons in header menu
+.course-lessons-menu {
+  list-style: none;
+  margin: $spacer-1 0 $spacer-1 0;
+  padding: 0;
+  border-top: 1px solid $color-border;
+  border-bottom: 1px solid $color-border;
+  padding-top: $spacer-1;
+  padding-bottom: $spacer-1;
+}
+
+.course-lesson-item {
+  margin-bottom: $spacer-1;
+  
+  a {
+    font-size: 16px; // Slightly smaller than main menu
+    color: $color-nav-link;
+    
+    &:hover {
+      color: $color-primary-link;
+    }
+    
+    &.active {
+      font-weight: bold;
+      color: $color-primary-link;
+    }
+  }
+}

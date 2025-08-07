@@ -10,7 +10,9 @@ layout: default
   <div class="mt-4 mb-2 clearfix header-text">
     <div class="clearfix mb-1 py-1">
       {% assign course_page = site.pages | where: "layout", "course" | where: "course_name", page.course | first %}
-      <p class="h4 lh-condensed">{{ course_page.title }}</p>
+      <p class="h4 lh-condensed">
+        <a class="no-underline" href="{{ course_page.url | prepend: site.baseurl }}">{{ course_page.title }}</a>
+      </p>
       <div class="col-1 sm-width-full border-top-thick">
       </div>
     </div>
