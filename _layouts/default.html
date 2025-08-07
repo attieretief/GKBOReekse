@@ -8,7 +8,17 @@
 
     {% include header.html %}
 
-    <div>
+    <!-- Scroll to top/bottom buttons -->
+    <div class="scroll-buttons">
+      <a href="#top" class="scroll-btn" onclick="scrollToTop(); return false;">
+        <div class="scroll-chevron up"></div>
+      </a>
+      <a href="#bottom" class="scroll-btn" onclick="scrollToBottom(); return false;">
+        <div class="scroll-chevron down"></div>
+      </a>
+    </div>
+
+    <div id="top">
       {{ content }}
     </div>
 
@@ -20,24 +30,40 @@
         mobileMenu.classList.toggle('active');
       }
       
+      function scrollToTop() {
+        window.scrollTo({
+          top: 0,
+          behavior: 'smooth'
+        });
+      }
+      
+      function scrollToBottom() {
+        window.scrollTo({
+          top: document.body.scrollHeight,
+          behavior: 'smooth'
+        });
+      }
+      
       // Close mobile menu when clicking outside or on close button
       document.addEventListener('DOMContentLoaded', function() {
         var mobileMenu = document.querySelector('.mobile-nav-menu');
         
-        // Close when clicking on the close button (×)
-        mobileMenu.addEventListener('click', function(e) {
-          if (e.target === mobileMenu || e.target.classList.contains('mobile-nav-menu')) {
-            mobileMenu.classList.remove('active');
-          }
-        });
-        
-        // Close when clicking on a link
-        var mobileLinks = mobileMenu.querySelectorAll('a');
-        mobileLinks.forEach(function(link) {
-          link.addEventListener('click', function() {
-            mobileMenu.classList.remove('active');
+        if (mobileMenu) {
+          // Close when clicking on the close button (×)
+          mobileMenu.addEventListener('click', function(e) {
+            if (e.target === mobileMenu || e.target.classList.contains('mobile-nav-menu')) {
+              mobileMenu.classList.remove('active');
+            }
           });
-        });
+          
+          // Close when clicking on a link
+          var mobileLinks = mobileMenu.querySelectorAll('a');
+          mobileLinks.forEach(function(link) {
+            link.addEventListener('click', function() {
+              mobileMenu.classList.remove('active');
+            });
+          });
+        }
       });
     </script>
 

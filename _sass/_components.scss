@@ -425,3 +425,76 @@ code {
     display: none;
   }
 }
+
+// Scroll to top/bottom buttons
+.scroll-buttons {
+  position: fixed;
+  left: calc(50vw - 600px); // Position relative to content area
+  top: 50%;
+  transform: translateY(-50%) translateX(-60px); // Move left from content edge
+  z-index: 500;
+  display: flex;
+  flex-direction: column;
+  gap: $spacer-1;
+  
+  // Fallback for smaller screens - use simple left positioning
+  @media (max-width: 1300px) {
+    left: $spacer-2;
+    transform: translateY(-50%);
+  }
+}
+
+.scroll-btn {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: $color-background;
+  border: 2px solid $color-border;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-decoration: none;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  
+  &:hover {
+    background-color: $color-primary-link;
+    border-color: $color-primary-link;
+    transform: scale(1.1);
+    
+    .scroll-chevron {
+      border-color: $color-background;
+    }
+  }
+}
+
+.scroll-chevron {
+  width: 8px;
+  height: 8px;
+  border: 2px solid $color-body-text;
+  transition: border-color 0.3s ease;
+  
+  &.up {
+    border-left: 2px solid $color-body-text;
+    border-top: 2px solid $color-body-text;
+    border-right: none;
+    border-bottom: none;
+    transform: rotate(45deg);
+  }
+  
+  &.down {
+    border-right: 2px solid $color-body-text;
+    border-bottom: 2px solid $color-body-text;
+    border-left: none;
+    border-top: none;
+    transform: rotate(45deg);
+  }
+}
+
+// Hide scroll buttons on very small screens
+@media (max-width: 480px) {
+  .scroll-buttons {
+    display: none;
+  }
+}
