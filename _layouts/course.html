@@ -4,7 +4,12 @@ layout: page
 
 {% assign course_name = page.course_name %}
 
-{% youtube page.youtubeurl %}
+{% if page.youtubeurl %}
+{% assign youtube_id = page.youtubeurl | split: '/' | last | split: '?' | first %}
+<div class="video-container mb-4">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ youtube_id }}" frameborder="0" allowfullscreen></iframe>
+</div>
+{% endif %}
 
 <div class="container mx-auto">
   {% assign lessons = site.pages | where: "course", course_name | where_exp: "item", "item.lesson != nil" | sort: "lesson" %}

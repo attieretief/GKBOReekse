@@ -34,7 +34,14 @@ theme_color: light
 # Build settings
 markdown: kramdown
 
-plugins: [jekyll-youtube]
+# GitHub Pages only supports these plugins:
+# https://pages.github.com/versions/
+# plugins:
+#   - jekyll-default-layout
+#   - jekyll-optional-front-matter
+#   - jekyll-readme-index
+#   - jekyll-relative-links
+#   - jekyll-titles-from-headings
 
 collections:
   courses:
