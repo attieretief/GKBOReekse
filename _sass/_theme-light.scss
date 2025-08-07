@@ -7,6 +7,7 @@ $gray: #A09992;
 $gray-light: #D7D5D1;
 $white: #fff;
 $burgundy: #B54545;
+
 // Config
 $color-background: $white !default;
 $color-foreground: $black !default;
@@ -15,8 +16,8 @@ $color-body-text: $black !default;
 $color-text-accent: $gray-dark !default;
 $color-code: $gray-dark !default;
 $color-nav-link: $black !default;
-$color-primary-link: $black !default;
-$color-primary-underline: $gray !default;
+$color-primary-link: $burgundy !default; // Add burgundy to links
+$color-primary-underline: $burgundy !default; // Add burgundy to link underlines
 $color-border: $gray-light !default;
 
 

@@ -492,6 +492,25 @@ code {
   }
 }
 
+// Add subtle burgundy accents to key elements
+.border-top-thick {
+  border-color: $color-primary-link !important; // Burgundy accent line
+}
+
+// Hover effects for course/lesson blocks
+.prose h2 a:hover {
+  color: $color-primary-link;
+  transition: color 0.3s ease;
+}
+
+// Active lesson highlighting
+.course-lesson-item a.active,
+.mobile-lesson-item a.active {
+  color: $color-primary-link !important;
+  border-left: 3px solid $color-primary-link;
+  padding-left: $spacer-1;
+}
+
 // Hide scroll buttons on very small screens
 @media (max-width: 480px) {
   .scroll-buttons {
