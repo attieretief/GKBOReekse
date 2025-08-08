@@ -2,7 +2,7 @@
 layout: course
 course_name: kategismus
 title: "Kategismus"
-order: 97
+order: 96
 ---
 
 # Inleiding tot die Heidelbergse Kategismus
