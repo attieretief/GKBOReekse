@@ -577,6 +577,14 @@ code {
   padding-left: $spacer-1;
 }
 
+// Active course highlighting
+.course-menu-item a.active,
+.mobile-nav-item a.active {
+  color: $color-primary-link !important;
+  border-left: 3px solid $color-primary-link;
+  padding-left: $spacer-1;
+}
+
 // Hide scroll buttons on very small screens
 @media (max-width: 480px) {
   .scroll-buttons {

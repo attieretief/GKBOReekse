@@ -21,19 +21,20 @@
       {% assign all_pages = regular_pages | concat: course_pages %}
       {% for my_page in all_pages %}
         {% if my_page.title %}
+        <!-- Check if this is the current course -->
+        {% assign current_course = false %}
+        {% if page.layout == "course" and page.course_name == my_page.course_name %}
+          {% assign current_course = true %}
+        {% elsif page.layout == "lesson" and page.course == my_page.course_name %}
+          {% assign current_course = true %}
+        {% endif %}
+        
         <li class="mobile-nav-item">
-          <a class="italic no-underline h4" href="{{ my_page.url | prepend: site.baseurl }}">
+          <a class="italic no-underline h4 {% if current_course %}active{% endif %}" href="{{ my_page.url | prepend: site.baseurl }}">
             {{ my_page.title }}
           </a>
           
           <!-- Show lessons for current course in mobile menu too -->
-          {% assign current_course = false %}
-          {% if page.layout == "course" and page.course_name == my_page.course_name %}
-            {% assign current_course = true %}
-          {% elsif page.layout == "lesson" and page.course == my_page.course_name %}
-            {% assign current_course = true %}
-          {% endif %}
-          
           {% if current_course %}
             {% if my_page.course_name == "woordelys" %}
               {% assign lessons = site.pages | where: "course", my_page.course_name | where_exp: "item", "item.lesson != nil" | sort: "title" %}
@@ -71,19 +72,20 @@
       {% assign all_pages = regular_pages | concat: course_pages %}
       {% for my_page in all_pages %}
         {% if my_page.title %}
+        <!-- Check if this is the current course -->
+        {% assign current_course = false %}
+        {% if page.layout == "course" and page.course_name == my_page.course_name %}
+          {% assign current_course = true %}
+        {% elsif page.layout == "lesson" and page.course == my_page.course_name %}
+          {% assign current_course = true %}
+        {% endif %}
+        
         <li class="inline-block block-lg text-right ml-1 ml-lg-0 course-menu-item">
-          <a class="italic no-underline h4" href="{{ my_page.url | prepend: site.baseurl }}">
+          <a class="italic no-underline h4 {% if current_course %}active{% endif %}" href="{{ my_page.url | prepend: site.baseurl }}">
             {{ my_page.title }}
           </a>
           
           <!-- Expand lessons if this is the current course -->
-          {% assign current_course = false %}
-          {% if page.layout == "course" and page.course_name == my_page.course_name %}
-            {% assign current_course = true %}
-          {% elsif page.layout == "lesson" and page.course == my_page.course_name %}
-            {% assign current_course = true %}
-          {% endif %}
-          
           {% if current_course %}
             {% if my_page.course_name == "woordelys" %}
               {% assign lessons = site.pages | where: "course", my_page.course_name | where_exp: "item", "item.lesson != nil" | sort: "title" %}
