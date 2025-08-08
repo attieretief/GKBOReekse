@@ -5,8 +5,6 @@ lesson: 3
 title: "Geloofsbelydenis van Athanasius"
 ---
 
-# **Die Geloofsbelydenis van Athanasius**
-
 **Vir elkeen wat salig wil word, is dit nodig dat hy die algemene geloof vashou.**
 As iemand dit nie heeltemal en ongeskonde bewaar nie, sal hy sonder twyfel ewig verlore gaan.
 
