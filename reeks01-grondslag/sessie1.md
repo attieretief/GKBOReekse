@@ -3,6 +3,9 @@ layout: lesson
 course: reeks01-grondslag
 lesson: 2
 title:  "Sessie 1"
+youtubeurl: "https://youtu.be/bO-Wg1JNnIM"
+youtube_start: 529
+youtube_end: 630
 ---
 # Die Definisie van “God” in Klassieke Teïsme
 

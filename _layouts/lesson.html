@@ -19,6 +19,34 @@ layout: default
     <h1 class="h0 inline-block py-2 mt-1 mb-1 header-title">{{ page.title }}</h1>
   </div>
 
+  {% if page.youtubeurl %}
+    <div class="mb-4">
+      {% assign video_id = page.youtubeurl | split: '/' | last | split: '?' | first %}
+      {% if page.youtube_start or page.youtube_end %}
+        {% assign embed_url = "https://www.youtube.com/embed/" | append: video_id %}
+        {% if page.youtube_start %}
+          {% assign embed_url = embed_url | append: "?start=" | append: page.youtube_start %}
+        {% endif %}
+        {% if page.youtube_end %}
+          {% if page.youtube_start %}
+            {% assign embed_url = embed_url | append: "&end=" | append: page.youtube_end %}
+          {% else %}
+            {% assign embed_url = embed_url | append: "?end=" | append: page.youtube_end %}
+          {% endif %}
+        {% endif %}
+      {% else %}
+        {% assign embed_url = "https://www.youtube.com/embed/" | append: video_id %}
+      {% endif %}
+      <div class="aspect-ratio-16-9">
+        <iframe src="{{ embed_url }}" 
+                frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                allowfullscreen>
+        </iframe>
+      </div>
+    </div>
+  {% endif %}
+
   <div class="prose py-2" itemprop="articleBody">
       {{ content }}
   </div>

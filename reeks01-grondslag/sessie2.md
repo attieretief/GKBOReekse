@@ -3,6 +3,9 @@ layout: lesson
 course: reeks01-grondslag
 lesson: 3
 title:  "Sessie 2"
+youtubeurl: "https://youtu.be/bO-Wg1JNnIM"
+youtube_start: 630
+youtube_end: 745
 ---
 # Ontmasker die Mites - Moderne Wanopvattings oor God
 
