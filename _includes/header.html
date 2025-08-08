@@ -46,7 +46,7 @@
               {% for lesson in lessons %}
               <li class="mobile-lesson-item">
                 <a class="italic no-underline {% if lesson.url == page.url %}active{% endif %}" href="{{ lesson.url | prepend: site.baseurl }}">
-                  {{ lesson.title }}
+                  {{ lesson.title | truncate:30 }}
                 </a>
               </li>
               {% endfor %}
@@ -97,7 +97,7 @@
               {% for lesson in lessons %}
               <li class="course-lesson-item">
                 <a class="italic no-underline {% if lesson.url == page.url %}active{% endif %}" href="{{ lesson.url | prepend: site.baseurl }}">
-                  {{ lesson.title }}
+                  {{ lesson.title | truncate:30}}
                 </a>
               </li>
               {% endfor %}

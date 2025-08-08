@@ -22,14 +22,14 @@
 {% if prev_lesson %}
 <div class="col-4 sm-width-full left mr-lg-4 mt-3">
   <a class="no-underline-hover py-1 block" href="{{ prev_lesson.url | prepend: full_base_url }}">
-    <span class="h4 bold chevron-left">{{ prev_lesson.title }}</span>
+    <span class="h4 bold chevron-left">{{ prev_lesson.title | truncate:30 }}</span>
   </a>
 </div>
 {% endif %}
 {% if next_lesson %}
 <div class="col-4 sm-width-full right mt-3">
   <a class="no-underline-hover py-1 block" href="{{ next_lesson.url | prepend: full_base_url }}">
-    <span class="h4 bold right chevron-right">{{ next_lesson.title }}</span>
+    <span class="h4 bold right chevron-right">{{ next_lesson.title | truncate:30 }}</span>
   </a>
 </div>
 {% endif %}

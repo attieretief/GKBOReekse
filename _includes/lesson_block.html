@@ -4,5 +4,5 @@
     <a class="link-primary" title="{{ page.url | prepend: site.baseurl }}" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
   </h2>
   <a class="no-underline-hover h5 block py-1 mb-1" title="{{ page.url | prepend: site.baseurl }}" href="{{ page.url | prepend: site.baseurl }}"></a>
-  <p>{{ page.content | markdownify | strip_html | truncatewords:60 }}<span><a class="link-primary" title="{{ page.url | prepend: site.baseurl }}" href="{{ page.url | prepend: site.baseurl }}"> Lees Verder</a></span></p>
+  <p>{{ page.content | markdownify | strip_html | truncate:600 }}<span><a class="link-primary" title="{{ page.url | prepend: site.baseurl }}" href="{{ page.url | prepend: site.baseurl }}"> Lees Verder</a></span></p>
 </div>

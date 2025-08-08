@@ -23,8 +23,8 @@
 <div class="col-4 sm-width-full left mr-lg-4 mt-3">
   <a class="no-underline-hover py-1 block" href="{{ prev_lesson.url | prepend: full_base_url }}">
     <span class="h5 bold chevron-left">Vorige</span>
-    <p class="bold h3 link-primary mb-1">{{ prev_lesson.title }}</p>
-    <p>{{ prev_lesson.content | markdownify | strip_html | truncatewords:30 }}</p>
+    <p class="bold h3 link-primary mb-1">{{ prev_lesson.title | truncate:30 }}</p>
+    <p>{{ prev_lesson.content | markdownify | strip_html | truncate:300 }}</p>
   </a>
 </div>
 {% endif %}
@@ -32,8 +32,8 @@
 <div class="col-4 sm-width-full right mt-3">
   <a class="no-underline-hover py-1 block right" href="{{ next_lesson.url | prepend: full_base_url }}">
     <span class="h5 bold chevron-right">Volgende</span>
-    <p class="bold h3 link-primary mb-1">{{ next_lesson.title }}</p>
-    <p>{{ next_lesson.content | markdownify | strip_html | truncatewords:30}}</p>
+    <p class="bold h3 link-primary mb-1">{{ next_lesson.title | truncate:30 }}</p>
+    <p>{{ next_lesson.content | markdownify | strip_html | truncate:300}}</p>
   </a>
 </div>
 {% endif %}
