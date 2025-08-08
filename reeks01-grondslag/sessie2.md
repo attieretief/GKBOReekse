@@ -15,8 +15,6 @@ In vandag se skeptiese wêreld kry karikature van God dikwels die meeste aandag.
 
 In hierdie sessie wil ons die spot vervang met begrip – ons gaan ’n paar algemene wanopvattings oor God ondersoek en dit geduldig regstel. Ons gaan sien dat die moderne ateïsme dikwels die klassieke begrip van God verkeerd verstaan, en ons gaan onsself uitdaag om God te sien soos Hy werklik is: nie net ’n vergrote weergawe van onsself nie, maar die transendente Skepper wat bo alles verhewe is. Ons gaan ook oor ons eie denke nadink, want selfs toegewyde gelowiges kan soms in ’n te beperkte idee van God verval. Die Skrif herinner ons dat God sowel die Almagtige Koning is wat bo ruimte en tyd verhewe is, as die liefdevolle Vader wat selfs elke haar op ons kop tel (Matteus 10:30). Hierdie balans versterk ons geloof en beskerm ons teen verwarring.
 
----
-
 ## Mite 1: “God is net ’n antieke bygeloof of ’n sielkundige kruk.”
 
 Een van die algemene spotwoorde is dat geloof in God nie meer rasioneel is as geloof in die Tandmuis of Kersvader nie – dat dit bloot ’n gerieflike fiksie is vir die swakkes of onopgevoedes. Die implikasie is dat godsdiens slegs bestaan as ’n sielkundige kruk of ’n oorblyfsel van “antieke bygeloof” wat sal verdwyn soos die wetenskap vorder.
@@ -42,8 +40,6 @@ Ons taak is dus om skeptici uit te nooi om verder te kyk as vlak afwysings en di
 > “Die hemel verklaar die heerlikheid van God, en die uitspansel verkondig die werk van sy hande.”
 
 Daar is iets daar buite om raak te sien – as ons bereid is om te kyk.
-
----
 
 ## Mite 2: “Gelowiges dink God is ’n groot man daar bo wat af en toe ingryp (’n ‘god van die gapings’).”
 
@@ -86,8 +82,6 @@ Daar is geen “gapings” waar God nie aan die werk is nie – soos Handelinge 
 
 > “Hy is nie ver van elkeen van ons nie.”
 
----
-
 ## Mite 3: “As God die heelal geskep het, wie het vir God geskep?”
 
 Op die oog af klink hierdie vraag slim – dit word dikwels in ’n *aha*-toon gestel, asof dit ’n vangs is wat gelowiges se hele argument ontmagtig: *“Aha! Julle het niks opgelos nie, julle het dit net ’n stap teruggeskuif.”*
@@ -123,8 +117,6 @@ Die vraag is dan: watter een is ’n beter kandidaat vir ’n **onveranderlike, 
 Christene glo laasgenoemde maak veel meer sin – omdat dit die orde, rede en doelgerigtheid van die skepping beter verklaar. Soos Psalm 90:2 sê:
 
 > “Voordat die berge gebore is en U die aarde en die wêreld voortgebring het – ja, van ewigheid tot ewigheid is U God.”
-
----
 
 ## Mite 4: “Die Bybel beskryf God as ’n kwaai man – gelowiges dink God het menslike buie en ’n fisiese liggaam.”
 
@@ -170,8 +162,6 @@ Soos Jesaja 55:8–9 sê:
 
 Wanneer ons dit reg verstaan, verdiep dit ons aanbidding. God is **tegelyk verhewe** (almagtig, alwetend, ewig) en **naby** (Hy sorg vir ons, hoor ons gebede en ken selfs die hare op ons kop). Hierdie balans help ons om te vertrou én om Hom met ontsag te dien.
 
----
-
 ## Van karikatuur na werklikheid
 
 Deur hierdie sessie heen was ons doel om die **karikature** van God te vervang met ’n duideliker beeld van wat Christene werklik glo.
@@ -211,6 +201,26 @@ Ons doel is nie om net argumente te wen nie, maar om mense bekend te stel aan Go
 
 ---
 
+# Noemenswaardige Aanhalings
+
+> “The God of the Bible is not a god among other gods, not even the greatest being within reality, but the very ground and source of all reality.” 
+–- David Bentley Hart, *The Experience of God*  
+- (Die God van die Bybel is nie ’n god tussen ander gode nie, nie eens die grootste wese binne die werklikheid nie, maar die grondslag en bron van alle werklikheid self.)
+
+> “An impersonal god—well and good. A subjective god of beauty, truth and goodness, inside our own heads—better still. A formless life-force surging through us, a vast power we can tap—best of all. But God Himself, alive, pulling at the other end of the cord, perhaps approaching at infinite speed, the hunter, king, husband—that is quite another matter.” 
+-– C.S. Lewis, *Miracles*  
+- (’n Onpersoonlike god—goed en wel. ’n Subjektiewe god van skoonheid, waarheid en goedheid, binne ons eie gedagtes—nog beter. ’n Vormlose lewenskrag wat deur ons bruis, ’n magtige energie wat ons kan aanwend—die beste van alles. Maar God self, lewend, wat aan die ander kant van die tou trek, dalk op oneindige spoed naderkom, die jagter, koning, eggenoot—dit is ’n heel ander saak.)
+
+> “The Dawkins Confusion: the God Delusion argument attacks a straw man, not the God in whom Christians believe.” 
+-– Alvin Plantinga, *Books & Culture* (Mar/Apr 2007)  
+- (Die Dawkins-verwarring: die “God Delusion”-argument val ’n strooipop aan, nie die God in wie Christene glo nie.)
+
+> “When people think of God as simply a bigger and better version of themselves, they inevitably reduce Him to an idol of their own imagination.” 
+-– R.C. Sproul, *Defending Your Faith*  
+- (Wanneer mense aan God dink as bloot ’n groter en beter weergawe van hulleself, verminder hulle Hom onvermydelik tot ’n afgod van hul eie verbeelding.)
+
+---
+
 ## Besprekingsvrae
 
 * **Watter beelde of argumente oor God** het jy al teëgekom van skeptici of in die populêre kultuur? Het dit die God wat jy uit die Skrif ken, akkuraat voorgestel, of was dit strooipop-weergawes?
@@ -222,6 +232,26 @@ Ons doel is nie om net argumente te wen nie, maar om mense bekend te stel aan Go
 * **Die vraag “As God die heelal geskep het, wie het vir God geskep?”** kom dikwels op. Hoe sou jy dit in eenvoudige, verstaanbare terme verduidelik?
 
 * **Op watter maniere** dink jy stel ons as Christene soms God te eng voor of te menslik voor? (Byvoorbeeld: om net na Hom te gaan as ’n laaste uitweg, of om te aanvaar Hy is “op ons kant” soos ’n stamgod.) Hoe help ’n regte, verhewe siening van God se natuur – én die wete van Sy persoonlike liefde – ons om ons geloof te versterk en ons houding reg te stel?
+
+---
+
+## Bybelkommentaar oor Sleutelteksgedeeltes
+
+> **Jesaja 40:18 - “Met wie wil julle God dan vergelyk, of watter gelykenis sal julle vir Hom uitsoek?”** (1953-vertaling)
+
+Hierdaag Jesaja die volk uit om te besef dat God totaal uniek is. Enige poging om Hom voor te stel asof Hy deel van die skepping is, misken Sy oneindige verhewenheid.
+
+> **Eksodus 20:4 - “Jy mag vir jou geen gesnede beeld maak of enige gelykenis van wat bo in die hemel of onder op die aarde of in die waters onder die aarde is nie.”** (1953-vertaling)
+
+Die tweede gebod verbied afgodsbeelde, wat insluit verkeerde of verminkte idees van God. Dit herinner ons dat God nie deur ’n beeld of konsep beperk kan word nie.
+
+> **Johannes 4:24 - “God is Gees; en die wat Hom aanbid, moet in gees en waarheid aanbid.”** (1953-vertaling)
+
+Jesus leer dat God nie ’n liggaamlike wese is wat beperk word deur plek of vorm nie. Om Hom reg te aanbid vereis dat ons Hom ken soos Hy werklik is.
+
+> **Handelinge 17:24–25 - “Die God wat die wêreld gemaak het en alles wat daarin is, Hy wat Here van hemel en aarde is, woon nie in tempels met hande gemaak nie. Hy laat Hom ook nie deur mensehande dien asof Hy iets nodig het nie, omdat Hy self aan almal lewe en asem en alles gee.”** (1953-vertaling)
+
+Paulus maak dit duidelik dat God nie afhanklik is van die skepping nie, maar dat alles in die skepping totaal afhanklik is van Hom.
 
 ---
 

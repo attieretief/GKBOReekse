@@ -102,43 +102,43 @@ Om ons begrip te verdiep, volg hier ’n paar **onvergeetlike aanhalings** van r
 
 > *“God is not, in any of the great theistic traditions, merely some rational agent, external to the order of the physical universe… He is not some discrete being somewhere out there… Rather, **he is himself the logical order of all reality, the ground both of the subjective rationality of mind and the objective rationality of being**.”*
 -- **David Bentley Hart (Ortodokse teoloog)** 
-- (Vertaling: God is nie, in enige van die groot teïstiese tradisies, bloot ’n rasionele agent buite die orde van die fisiese heelal nie. Hy is nie ’n afsonderlike wese êrens “daar buite” nie. Hy is self die logiese orde van alle werklikheid – die grondslag van die subjektiewe rasionaliteit van die verstand, sowel as die objektiewe rasionaliteit van wese.)
+- (God is nie, in enige van die groot teïstiese tradisies, bloot ’n rasionele agent buite die orde van die fisiese heelal nie. Hy is nie ’n afsonderlike wese êrens “daar buite” nie. Hy is self die logiese orde van alle werklikheid – die grondslag van die subjektiewe rasionaliteit van die verstand, sowel as die objektiewe rasionaliteit van wese.)
 
 > *“Hurling flak at a deity who inhabits the same circle of existence as everything else is fair game – but it isn’t significant with regards to **the God… who is the independent Source of all contingent being**. Confronted by so constrained a concept of God, the village atheist can still ask, *‘Who made God?’*”*
 -- **David Bentley Hart** – (oor die verkeerde ateïstiese karikatuur van God) 
-- (Vertaling: Om kritiek te lewer op ’n godheid wat op dieselfde vlak van bestaan as alles anders leef, is ’n maklike teiken – maar dit sê niks oor die God wat die onafhanklike Bron van alle afhanklike wese is nie. Teen so ’n beperkte idee van God kan selfs die mees alledaagse ateïs steeds vra: “Wie het vir God gemaak?”)
+- (Om kritiek te lewer op ’n godheid wat op dieselfde vlak van bestaan as alles anders leef, is ’n maklike teiken – maar dit sê niks oor die God wat die onafhanklike Bron van alle afhanklike wese is nie. Teen so ’n beperkte idee van God kan selfs die mees alledaagse ateïs steeds vra: “Wie het vir God gemaak?”)
 
 > *“All things that exist, exist by having being. A thing whose essence is not its own being exists only by participation in something else – namely, in **Being itself**. But the first cause (God), having nothing prior to Him, must have as His essence **His very act of being**… Thus when God told Moses ‘I AM WHO I AM’ (Exod. 3:14), He revealed **His proper name** to be ‘He Who Is’.”*
 -- **St. Thomas Aquinas (13de eeu, teoloog)** 
-- (Vertaling: Alles wat bestaan, bestaan deur deel te hê aan wese. As ’n ding se wese nie sy eie bestaan is nie, bestaan dit slegs deur deelname aan iets anders – naamlik aan Wese self. Maar die eerste oorsaak, God, wat niks voor Hom het nie, moet Sy eie daad van bestaan as wese hê. Daarom, toe God aan Moses sê “Ek is wat Ek is”, openbaar Hy sy regte Naam as “Hy wat is.”)
+- (Alles wat bestaan, bestaan deur deel te hê aan wese. As ’n ding se wese nie sy eie bestaan is nie, bestaan dit slegs deur deelname aan iets anders – naamlik aan Wese self. Maar die eerste oorsaak, God, wat niks voor Hom het nie, moet Sy eie daad van bestaan as wese hê. Daarom, toe God aan Moses sê “Ek is wat Ek is”, openbaar Hy sy regte Naam as “Hy wat is.”)
 
 > *“Where I have found **Truth**, there I have found my God, the Truth itself.”*
 -- **St. Augustine van Hippo (4de eeu)**
-- (Vertaling: Waar ek Waarheid gevind het, daar het ek my God gevind – die Waarheid self.)
+- (Waar ek Waarheid gevind het, daar het ek my God gevind – die Waarheid self.)
 
 > *“You have made us for Yourself, O Lord, and **our heart is restless until it rests in You**.”** 
 -- **St. Augustine**
-- (Vertaling: U het ons vir Uself gemaak, o Here, en ons hart bly onrustig totdat dit in U rus vind.)
+- (U het ons vir Uself gemaak, o Here, en ons hart bly onrustig totdat dit in U rus vind.)
 
 > *“There is within the human mind, and indeed by natural instinct, **an awareness of divinity**. God Himself has implanted in all men a certain understanding of His divine majesty.”*
 -- **Johannes Calvyn (16de eeu, Hervormer)**
-- (Vertaling: Daar is binne die menslike gees, en inderdaad deur natuurlike instink, ’n bewussyn van die Goddelike. God self het in alle mense ’n sekere begrip van sy goddelike majesteit ingeplant.)
+- (Daar is binne die menslike gees, en inderdaad deur natuurlike instink, ’n bewussyn van die Goddelike. God self het in alle mense ’n sekere begrip van sy goddelike majesteit ingeplant.)
 
 > *“In Him we live and move and have our being” – Paul’s meaning is that we are in a manner contained in God’s power… for **it belongs to God alone to BE; all other things have their being in Him**.”*
 -- **Johannes Calvyn** – 
-- (Vertaling: “In Hom leef ons, beweeg ons en het ons ons bestaan” – Paulus se bedoeling is dat ons op ’n manier ingesluit is in God se krag… want dit behoort aan God alleen om te wees; alle ander dinge het hul bestaan in Hom.)
+- (“In Hom leef ons, beweeg ons en het ons ons bestaan” – Paulus se bedoeling is dat ons op ’n manier ingesluit is in God se krag… want dit behoort aan God alleen om te wees; alle ander dinge het hul bestaan in Hom.)
 
 > *“**God is defined as a maximally great being**, i.e., a being that has all qualities that would make Him maximally great. One quality such a being must have is **necessary existence**. A ‘God’ who could *not* exist or could be one among others would not be maximally great.”*
 -- **Alvin Plantinga (21ste eeu, filosoof)** 
-- (Vertaling: God word gedefinieer as ’n maksimale groot Wese – een wat alle eienskappe het wat Hom so groot as moontlik maak. Een van daardie eienskappe is noodsaaklike bestaan. ’n “God” wat moontlik nie kon bestaan het nie, of net een onder vele is, sou nie werklik maksimaal groot wees nie.)
+- (God word gedefinieer as ’n maksimale groot Wese – een wat alle eienskappe het wat Hom so groot as moontlik maak. Een van daardie eienskappe is noodsaaklike bestaan. ’n “God” wat moontlik nie kon bestaan het nie, of net een onder vele is, sou nie werklik maksimaal groot wees nie.)
 
 > *“If I find in myself a desire which no experience in this world can satisfy, the most probable explanation is that **I was made for another world**.”*
 -- **C.S. Lewis (20ste eeu, skrywer)**
-- (Vertaling: As ek in myself ’n begeerte vind wat geen ervaring in hierdie wêreld kan bevredig nie, is die waarskynlikste verklaring dat ek vir ’n ander wêreld gemaak is.)
+- (As ek in myself ’n begeerte vind wat geen ervaring in hierdie wêreld kan bevredig nie, is die waarskynlikste verklaring dat ek vir ’n ander wêreld gemaak is.)
 
 > *“The classical theist starts from the idea that God is **that reality which is absolutely ultimate or fundamental, the source of all other reality**… He is not ‘a being’ alongside other beings; rather, **His essence just is existence**… He does not *have* intellect and will; rather He just **is** infinite intellect and will.”*
 -- **Edward Feser (Thomistiese filosoof)**
-- (Vertaling: Die klassieke teïs begin by die idee dat God die werklikheid is wat absoluut uiteindelik en fundamenteel is – die bron van alle ander werklikheid. Hy is nie net ’n wese langs ander wesens nie; sy wese is bestaan self. Hy het nie bloot verstand en wil nie – Hy ís oneindige verstand en wil.)
+- (Die klassieke teïs begin by die idee dat God die werklikheid is wat absoluut uiteindelik en fundamenteel is – die bron van alle ander werklikheid. Hy is nie net ’n wese langs ander wesens nie; sy wese is bestaan self. Hy het nie bloot verstand en wil nie – Hy ís oneindige verstand en wil.)
 
 Elke aanhaling beklemtoon ’n aspek van die klassieke verstaan van God: as die **selfbestaande bron** van alle wese (Aquinas, Calvin, Feser), as die **waarheid en goedheid self** waarna ons harte smag (Augustine, Lewis), en as die **noodsaaklike, maksimaal volmaakte Wese** bo wie geen groter een denkbaar is nie (Plantinga, en by implikasie Anselmus se idee soos by Feser). Saam fokus hulle ons aandag op die grootsheid van God in klassieke teïsme – **oneindig, onveroorsaak, onveranderlik, en tog die persoonlike fondament van alles wat ons ken**.
 
