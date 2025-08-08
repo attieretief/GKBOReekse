@@ -10,7 +10,7 @@ youtube_end: 860
 
 # “Hoekom is daar iets eerder as niks?” – Die Vraag na Bestaan
 
-### Inleiding
+## Inleiding
 
 Een van die mees diepgaande vrae wat ’n mens kan stel, is: **“Hoekom is daar iets eerder as niks?”** Dit klink op die oppervlak eenvoudig, amper kinderlik, maar dit is ’n vraag wat die mees gesoute denkers deur die eeue besig gehou het — en wat vir ons almal, of ons dit besef of nie, die mees fundamentele vraag van alles is. Want as daar geen antwoord hierop is nie, het niks anders uiteindelike betekenis nie.
 
@@ -225,23 +225,23 @@ God se selfopenbaring as “Ek is” wys op sy selfbestaande aard. Hy is nie afh
 
 ## Bibliografie
 
-1. Hart, David Bentley. *The Experience of God: Being, Consciousness, Bliss*. Yale University Press, 2013.  
+* Hart, David Bentley. *The Experience of God: Being, Consciousness, Bliss*. Yale University Press, 2013.  
    – ’n Diepgaande en toeganklike uiteensetting van God as die selfbestaande grond van alle werklikheid, met sterk kritiek teen materialisme.
 
-2. Leibniz, Gottfried Wilhelm. *The Monadology* en *On the Ultimate Origination of Things*.  
+* Leibniz, Gottfried Wilhelm. *The Monadology* en *On the Ultimate Origination of Things*.  
    – Klassieke bronne vir die Beginsel van Voldoende Rede en die vraag “Waarom is daar iets eerder as niks?”.
 
-3. Thomas Aquinas. *Summa Theologica*, Eerste Deel, Vrae 2–3.  
+* Thomas Aquinas. *Summa Theologica*, Eerste Deel, Vrae 2–3.  
    – Die oorspronklike “Vyf Maniere” om God se bestaan te demonstreer, insluitend die kontingensie-argument.
 
-4. Bavinck, Herman. *Gereformeerde Dogmatiek*, Deel 2.  
+* Bavinck, Herman. *Gereformeerde Dogmatiek*, Deel 2.  
    – ’n Reformatoriese teologiese verwerking van God se selfbestaande aard en verhouding tot die skepping.
 
-5. Berkhof, Louis. *Systematic Theology*.  
+* Berkhof, Louis. *Systematic Theology*.  
    – Beknopte, helder verduidelikings van God se noodsaaklike bestaan en onderhouende werk.
 
-6. Sproul, R.C. *Defending Your Faith*. Crossway, 2003.  
+* Sproul, R.C. *Defending Your Faith*. Crossway, 2003.  
    – ’n Toeganklike inleiding tot klassieke argumente vir God se bestaan, geskryf met ’n pastorale toon.
 
-7. Craig, William Lane. *Reasonable Faith*. Crossway, 2008.  
+* Craig, William Lane. *Reasonable Faith*. Crossway, 2008.  
    – ’n Moderne verduideliking van die kalām-kosmologiese argument en hoe dit saamwerk met die Bybelse wêreldbeskouing.
