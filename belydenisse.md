@@ -2,5 +2,5 @@
 layout: course
 course_name: belydenisse
 title: "Belydenisse"
-order: 2
+order: 96
 ---

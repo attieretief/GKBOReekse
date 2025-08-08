@@ -417,6 +417,54 @@ code {
   border-bottom: 1px solid $color-border;
   padding-top: $spacer-1;
   padding-bottom: $spacer-1;
+  max-height: 60vh; // Limit height to 60% of viewport
+  overflow-y: auto; // Add vertical scrolling
+  overflow-x: hidden; // Hide horizontal scrolling
+  position: relative; // For scroll shadows
+  
+  // Custom scrollbar styling
+  &::-webkit-scrollbar {
+    width: 6px;
+  }
+  
+  &::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+  }
+  
+  &::-webkit-scrollbar-thumb {
+    background: $color-border;
+    border-radius: 3px;
+    
+    &:hover {
+      background: $color-primary-link;
+    }
+  }
+  
+  // Subtle visual indicator when content is scrollable
+  &::before {
+    content: '';
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 10px;
+    background: linear-gradient(to bottom, $color-background, transparent);
+    pointer-events: none;
+    z-index: 1;
+  }
+  
+  &::after {
+    content: '';
+    position: sticky;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 10px;
+    background: linear-gradient(to top, $color-background, transparent);
+    pointer-events: none;
+    z-index: 1;
+  }
 }
 
 .course-lesson-item {

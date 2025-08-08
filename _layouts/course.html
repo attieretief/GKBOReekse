@@ -11,6 +11,10 @@ layout: page
 </div>
 {% endif %}
 
+<div class="prose py-2" itemprop="articleBody">
+    {{ content }}
+</div>
+
 <div class="container mx-auto">
   {% if course_name == "woordelys" %}
     {% assign lessons = site.pages | where: "course", course_name | where_exp: "item", "item.lesson != nil" | sort: "title" %}
