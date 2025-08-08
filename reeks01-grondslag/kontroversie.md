@@ -51,3 +51,17 @@ title:  "Kontroversie"
 
 > Hierdie opmerkings is nie bedoel as afwysing van die inhoud nie, maar as riglyne om te verseker dat ons gesprekke en leerstellings altyd helder verbind bly aan die Gereformeerde belydenisgrondslag.
 
+---
+
+# Reeks 1 en Gereformeerde Belydenisskrifte: Temas en Moontlike Spanningspunte
+
+| Reeks 1 Hoofpunt | Relevante Belydenisverwysings | Moontlike Historiese Spanningspunte / Nuanses |
+|------------------|------------------------------|-----------------------------------------------|
+| **God as “wese self” / *ipsum esse subsistens*** | NGB Art. 1 (God se eienskappe), HK Sondag 8, Dordtse Leerreëls Hfst. 1, Art. 1 | Terminologie uit klassieke filosofie versoenbaar met belydenis, maar kan verkeerd verstaan word as panenteïsme/panteïsme sonder Skrifduidelikheid. |
+| **Gebruik van filosofiese argumente (kosmologies, moreel, bewustheid) as deel van kursus** | NGB Art. 2 (openbaring in skepping), DL Hfst. 3/4, Art. 4–6 | Histories erken as hulpmiddel; belydenis waarsku dat saligmakende kennis slegs uit Skrif en Gees kom. |
+| **Immanensie en transendensie sterk beklemtoon** | NGB Art. 13 (Voorsienigheid), HK V/A 26 | Belangrik om Skepper-skepsel-onderskeid te behou; sommige formulerings kan deur oningeligtes as panteïsties gelees word. |
+| **Bliss/Saligheid as metafisiese kategorie en universele verlange** | HK Sondag 1; NGB Art. 20–23 | Kan Bybelse saligheid verduister as dit te filosofies behandel word en nie duidelik aan Christus verbind word nie. |
+| **Verwysings na nie-Gereformeerde denkers (Aquinas, Aristoteles, Oosterse konsepte)** | NGB Art. 7 (Skrif alleen as gesag) | Aanvullend nuttig, maar altyd ondergeskik aan Skrif; histories was daar versigtigheid om nie-Bybelse kategorieë leerstellig bepalend te maak. |
+| **Erkenning van gedeelde klassieke teïsme met ander godsdienste** | NGB Art. 2, 7; DL Hfst. 2, Art. 5 | Moet nie lei tot relativering van Christus se unieke en genoegsame openbaring en verlossing nie. |
+| **Klem op rede en rasionaliteit as deel van God se beeld in die mens** | HK Sondag 3; NGB Art. 14 | Ooreenstemmend, maar moet steeds die leer van totale verdorwenheid en noodsaak van vernuwing deur Gees beklemtoon. |
+| **Verwysings na God as bron van alle waarheid, goedheid en skoonheid** | NGB Art. 1, 2; HK V/A 26, 120–122 | Ooreenstemmend, mits die verband met aanbidding, gehoorsaamheid en Christus sentraal bly. |
