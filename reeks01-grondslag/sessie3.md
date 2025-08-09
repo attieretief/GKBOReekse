@@ -26,7 +26,7 @@ In hierdie sessie gaan ons nie net filosofies besin oor hierdie vraag nie, maar 
 
 ---
 
-## Waarom Materialisme faal
+## Waarom Materialisme misluk
 
 Materialisme — die oortuiging dat daar niks anders as materie en fisiese prosesse bestaan nie — probeer hierdie groot vraag dikwels eenvoudig wegvee. Die tipiese antwoord lui: “Dinge bestaan maar net. Daar is geen rede of doel agter dit nie. Dit is maar net so.”  
 
