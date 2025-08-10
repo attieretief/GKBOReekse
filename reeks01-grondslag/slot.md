@@ -3,6 +3,7 @@ layout: lesson
 course: reeks01-grondslag
 lesson: 10
 title:  "Slot"
+youtubeurl: "https://youtu.be/4cU7574vCZQ"
 ---
 
 ### Laaste Gedagte – My Getuienis van Ontsag, Verlange en Lewende Ontmoeting
@@ -32,3 +33,5 @@ En soos Augustinus in sy *Confessions* bid: “U het ons vir Uself gemaak, o Her
 Ons het op hierdie strand saamgestaan, die koel water om ons voete gevoel – ’n voorsmaak van die onmeetbare see van God se heerlikheid. Die golwe fluister van Sy liefde, die horison wink na Sy oneindigheid. Daar lê oneindige dieptes voor, vol avontuur, vol vreugde, vol van Hom. Kom ons stap verder in, met ontsag vir Sy grootheid, met rede om Hom te verstaan, en met vreugde omdat Hy ons eerste liefgehad het. Want die belofte staan vas: “Dié wat My soek, sal My vind” (Jeremia 29:13). En in daardie vind, vind ons onsself.
 
 Hoër as my hoogste, nader as my innerlikste self – o God, U is my God. Amen.
+
+- Attie Retief, Augustus 2025
