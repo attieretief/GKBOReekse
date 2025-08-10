@@ -1,9 +1,3 @@
----
-layout: lesson
-course: reeks01-grondslag
-lesson: 99
-title:  "Draaiboek"
----
 **Skyfie 1 – Titelblad: Reeks Oorsig – Die Werklikheid van God**
 
 *"Vriende, ek wil julle welkom heet op ’n reis wat nie net ons verstand gaan uitdaag nie, maar ons harte gaan aanraak. Ons gaan saam stilstaan by vrae wat die mensdom al van die begin af vra: Wie is God regtig? Hoekom bestaan daar iets eerder as niks? En waarom dra ons almal ’n verlange na meer as wat hierdie wêreld kan bied?*
