@@ -3,6 +3,12 @@ layout: lesson
 course: woordelys
 lesson: 1
 title: "Panenteïsme"
+variations:
+  - panenteïsme
+  - panenteisties
+  - panenteistiese
+  - panenteïs
+  - panenteiste
 ---
 
 Panenteïsme leer dat die heelal in God bestaan, maar dat God meer is as die heelal. Anders as panteïsme (wat sê God *is* die heelal) en teïsme (wat sê God is apart van die heelal), leer panenteïsme dat God die heelal insluit maar ook daarmee transendeneer. God bevat alle werklikheid, maar Sy wese gaan verder as wat Hy bevat.

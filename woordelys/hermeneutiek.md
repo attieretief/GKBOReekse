@@ -3,6 +3,12 @@ layout: lesson
 course: woordelys
 lesson: 1
 title: "Hermeneutiek"
+variations:
+  - hermeneutiek
+  - hermeneutiese
+  - hermeneuties
+  - hermeneut
+  - hermeneute
 ---
 
 Hermeneutiek is die wetenskap en kuns van interpretasie, veral van tekste. In die teologie verwys dit na die beginsels en metodes wat gebruik word om die Bybel korrek te verstaan en uit te lê. Dit sluit in die studie van historiese konteks, literêre vorme, en die toepassing van Skriftuurlike waarhede in verskillende tye en kulture.

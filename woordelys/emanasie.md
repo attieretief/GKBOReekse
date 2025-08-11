@@ -3,6 +3,12 @@ layout: lesson
 course: woordelys
 lesson: 1
 title: "Emanasie"
+variations:
+  - emanasie
+  - emanaties
+  - emanatiese
+  - emaneer
+  - emaneerbaar
 ---
 
 Emanasie is 'n filosofiese konsep wat beskryf hoe alle werklikheid uit 'n enkele, transendente bron "uitvloei" of "uitstraal" in 'n hiërargiese orde. Volgens hierdie idee ontstaan alles uit die Absolute of God deur 'n proses van oorvloeiing, waar elke vlak van werklikheid minder perfek is as die vorige een.

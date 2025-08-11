@@ -3,6 +3,12 @@ layout: lesson
 course: woordelys
 lesson: 1
 title: "Panteïsme"
+variations:
+  - panteïsme
+  - panteisties
+  - panteistiese
+  - panteïs
+  - panteiste
 ---
 
 Panteïsme is die filosofiese en godsdienstige siening dat God en die heelal identiek is - dat God *is* die heelal en die heelal *is* God. Volgens hierdie opvatting is daar geen onderskeid tussen die Skepper en die skepping nie; alles wat bestaan is deel van of 'n manifestasie van die goddelike wese.

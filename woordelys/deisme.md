@@ -3,6 +3,13 @@ layout: lesson
 course: woordelys
 lesson: 1
 title: "Deïsme"
+variations:
+  - deisme
+  - deïsme
+  - deisties
+  - deistiese
+  - deist
+  - deiste
 ---
 
 Deïsme is die siening dat God die heelal geskape het met sy natuurwette, maar dat Hy daarna nie meer ingryp in die loop van gebeurtenisse nie. God word gesien as 'n "horlosiemaker" wat die wêreld opgewind het en dit dan alleen gelaat het om volgens sy ingeboude meganismes te werk. Deïste verwerp gewoonlik wonder, openbaring, en goddelike voorsienigheid.

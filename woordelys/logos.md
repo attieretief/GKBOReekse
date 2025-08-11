@@ -3,6 +3,8 @@ layout: lesson
 course: woordelys
 lesson: 1
 title: "Logos"
+variations:
+  - logos
 ---
 
 Logos is 'n Griekse term wat "woord", "rede", of "beginsel" beteken. In die filosofie verwys dit na die rasionele beginsel wat die kosmos regeer. In die Christelike teologie verwys dit spesifiek na Jesus Christus as die ewige Woord van God (Johannes 1:1), die tweede Persoon van die Drie-eenheid deur wie alle dinge geskape is en in wie God Homself openbaar.

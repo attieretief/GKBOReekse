@@ -3,6 +3,8 @@ layout: lesson
 course: woordelys
 lesson: 1
 title: "Qualia"
+variations:
+  - qualia
 ---
 
 Qualia verwys na die subjektiewe, ervaringsmatige eienskappe van bewussynstoestande - die "hoe dit voel" aspek van ervaring. Dit is die kwalitatiewe aspekte van waarneming wat nie in objektiewe, fisiese terme beskryf kan word nie, soos die rooiheid van rooi, die pynlikheid van pyn, of die soetheid van suiker.

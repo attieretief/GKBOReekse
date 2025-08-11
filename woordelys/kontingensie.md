@@ -3,6 +3,10 @@ layout: lesson
 course: woordelys
 lesson: 1
 title:  "Kontingensie"
+variations:
+  - kontingensie
+  - kontingent
+  - kontingente
 ---
 
 Metafisiese kontingensie verwys na die idee dat iets bestaan of plaasvind, maar nie uit eie noodsaaklikheid nie. Dit beteken dat die bestaan of waarheid van daardie ding afhanklik is van iets anders en dat dit anders kon gewees het. In die metafisika word kontingente dinge gekontrasteer met noodsaaklike dinge, wat op so 'n wyse bestaan dat dit nie anders kan wees nie.

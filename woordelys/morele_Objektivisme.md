@@ -3,6 +3,9 @@ layout: lesson
 course: woordelys
 lesson: 1
 title: "Morele Objektivisme"
+variations:
+  - morele objektivisme
+  - objektivisme
 ---
 
 Morele objektivisme is die oortuiging dat sekere morele waarhede universeel en onafwendbaar waar is — ongeag menslike opinie of kultuurverskille. Dit beteken dat goed en kwaad nie slegs sosiale konstrukte is nie, maar in wese gewortel is in ’n hoër, vaste standaard.

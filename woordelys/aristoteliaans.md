@@ -3,6 +3,11 @@ layout: lesson
 course: woordelys
 lesson: 15
 title: "Aristoteliaans"
+variations:
+  - aristoteliaans
+  - aristoteliaanse
+  - aristoteliaan
+  - aristotelianisme
 ---
 
 “Aristoteliaans” verwys na idees of benaderings wat afkomstig is van of beïnvloed is deur die denke van die Griekse filosoof Aristoteles (384–322 v.C.). In teologie en metafisika dui dit spesifiek op ’n benadering wat klem lê op substansie, vorm-en-materie, potensiaal en akt, en oorsaaklikheid — vier “uiteindelike oorsake” vir die bestaan en wese van dinge.

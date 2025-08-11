@@ -116,7 +116,7 @@
 
 *Materialiste sê: dis net die brein, net neurone en chemikalieë. Maar hier’s die raaisel: Jy kan elke neurale verbinding karteer, elke elektriese sein meet – en jy sal nog steeds nie die ervaring van ‘rooi’ of ‘broodgeur’ daarin vind nie. Dis wat filosowe die **hard problem of consciousness** noem. Thomas Nagel het dit treffend gevra: *‘Wat is dit soos om ’n vlermuis te wees?’* – iets wat geen hoeveelheid breindata kan verduidelik nie.*
 
-*In hierdie sessie gaan ons kyk hoekom bewussyn ’n uitdaging is vir ’n wêreldbeskouing wat net materie erken. Ons gaan praat oor **intentionaliteit** – dat ons gedagtes oor iets kan wees, soos om oor ’n boom of ’n herinnering te dink – iets wat nie in ’n fisiese voorwerp opgesluit lê nie. Ons gaan kyk na **rede en vrye wil**, en hoekom dit moeilik is om te sê ons denke is net ’n toevallige produk van evolusie as ons glo ons denke is betroubaar.*
+*In hierdie sessie gaan ons kyk hoekom bewussyn ’n uitdaging is vir ’n wêreldbeskouing wat net materie erken. Ons gaan praat oor **intensionaliteit** – dat ons gedagtes oor iets kan wees, soos om oor ’n boom of ’n herinnering te dink – iets wat nie in ’n fisiese voorwerp opgesluit lê nie. Ons gaan kyk na **rede en vrye wil**, en hoekom dit moeilik is om te sê ons denke is net ’n toevallige produk van evolusie as ons glo ons denke is betroubaar.*
 
 *En dan gaan ons dit terugbring na wat die Bybel sê: dat ons geskape is in die beeld van God. Ons bewussyn is nie ’n fout van biologie nie – dis ’n afdruk van die Skepper se eie denke en gees. Dit is ’n venster waardeur ons die God kan ken wat ons eerste geken het."*
 
@@ -124,7 +124,7 @@
 
 **Sessie 6 – Gerigtheid, moraliteit en doel**
 
-*"Het jy al gewonder hoekom ons gedagtes altyd oor íéts gaan? Jy dink aan jou huis, jy droom van ’n vakansie, jy beplan môre se werk – jou denke is altyd gerig op ’n voorwerp, ’n idee, ’n doel. Filosowe noem dit **intentionaliteit** – die ‘oor’- of ‘na’-aard van ons gedagtes. Maar hier’s die vraag: hoe kan blote materie, soos ’n neuron of ’n rots, ooit ‘oor’ iets wees? ’n Rots is net ’n rots – hy dink nie oor jou nie. Tog kan jy oor die rots dink.*
+*"Het jy al gewonder hoekom ons gedagtes altyd oor íéts gaan? Jy dink aan jou huis, jy droom van ’n vakansie, jy beplan môre se werk – jou denke is altyd gerig op ’n voorwerp, ’n idee, ’n doel. Filosowe noem dit **intensionaliteit** – die ‘oor’- of ‘na’-aard van ons gedagtes. Maar hier’s die vraag: hoe kan blote materie, soos ’n neuron of ’n rots, ooit ‘oor’ iets wees? ’n Rots is net ’n rots – hy dink nie oor jou nie. Tog kan jy oor die rots dink.*
 
 *Net so is daar iets diep in ons wat sê sekere dinge is reg en ander verkeerd – nie net vir my of vir nou nie, maar vir almal en altyd. Ons noem dit **moraliteit**. Jy weet dat geregtigheid goed is en kindermishandeling verkeerd is – nie omdat jou kultuur dit sê nie, maar omdat dit werklik waar is. Die Bybel sê dis omdat God Sy wet op ons harte geskryf het (Romeine 2:15).*
 

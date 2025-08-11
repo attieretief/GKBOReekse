@@ -3,6 +3,10 @@ layout: lesson
 course: woordelys
 lesson: 1
 title: "Metafisika"
+variations:
+  - metafisika
+  - metafisies
+  - metafisiese
 ---
 
 Metafisika is die tak van filosofie wat handel oor die fundamentele aard van werklikheid. Dit vra vrae oor wat bestaan, wat dit beteken om te wees, en hoe verskillende aspekte van die werklikheid — soos tyd, ruimte, identiteit, en oorsaaklikheid — met mekaar verband hou. Metafisika lê die grondslag vir alle ander vorme van filosofiese en teologiese denke.

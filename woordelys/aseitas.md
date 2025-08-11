@@ -3,6 +3,10 @@ layout: lesson
 course: woordelys
 lesson: 1
 title: "Aseitas"
+variations:
+  - aseitas
+  - aseitase
+  - aseitases
 ---
 
 Aseitas (van die Latyn *a se* — “uit homself”) verwys na God se selfstandige, selfgenoegsame bestaan. Dit beteken dat God nie van enigiets buite Homself afhanklik is vir Sy bestaan of aard nie. Hy is die enigste wese wat werklik *uit Homself* bestaan.

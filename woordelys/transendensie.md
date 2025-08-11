@@ -3,6 +3,11 @@ layout: lesson
 course: woordelys
 lesson: 1
 title:  "Transendensie"
+variations:
+  - transendensie
+  - transendent
+  - transendente
+  - transendenteel
 ---
 
 Metafisiese transendensie verwys na die konsep van iets wat bo of buite die fisiese, materiële wêreld bestaan en nie beperk word deur die grense van menslike ervaring, persepsie of die natuurlike orde nie. Dit dui op 'n werklikheid, entiteit of beginsel wat verder gaan as die alledaagse, empiriese realiteit en dikwels as verhewe of onafhanklik van die fisiese bestaan beskou word. In die metafisika word transendente dinge of idees beskou as dié wat nie afhanklik is van die kontingente (afhanklike) of selfs noodsaaklike (onafwendbare) aspekte van die wêreld nie, maar eerder in 'n hoër of ander soort bestaan verkeer. 

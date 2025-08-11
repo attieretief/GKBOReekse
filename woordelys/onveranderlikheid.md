@@ -3,6 +3,11 @@ layout: lesson
 course: woordelys
 lesson: 13
 title: "Onveranderlikheid"
+variations:
+  - onveranderlikheid
+  - onveranderlik
+  - onveranderlike
+  - immutabiliteit
 ---
 
 Onveranderlikheid (of immutabiliteit) is die eienskap van God dat Hy nie verander nie — nie in Sy wese, karakter, wil of doelstellings nie. In klassieke teologie beteken dit dat God volkome stabiel en betroubaar is; Hy is nie onderhewig aan tydelike prosesse of emosionele wisselinge nie.

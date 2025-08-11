@@ -3,6 +3,12 @@ layout: lesson
 course: woordelys
 lesson: 1
 title: "Apologetiek"
+variations:
+  - apologetiek
+  - apologetiese
+  - apologeet
+  - apologete
+  - apologetika
 ---
 
 Apologetiek is die teologiese dissipline wat die Christelike geloof verdedig deur rasionele argumente, bewyse, en antwoorde op besware te verskaf. Dit kom van die Griekse woord "apologia" wat "verdediging" beteken. Apologete probeer om te toon dat die Christelike geloof rasioneel verdedigbaar is en dat daar goeie redes is om te glo.

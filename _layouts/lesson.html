@@ -42,6 +42,12 @@ layout: default
   <div class="prose py-2" itemprop="articleBody">
       {{ content }}
   </div>
+
+  {% if page.variations %}
+    <script type="application/json" id="woordelys-variations">
+      {{ page.variations | jsonify }}
+    </script>
+  {% endif %}
 </article>
 
 

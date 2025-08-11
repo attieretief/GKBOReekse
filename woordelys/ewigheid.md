@@ -3,6 +3,11 @@ layout: lesson
 course: woordelys
 lesson: 1
 title: "Ewigheid"
+variations:
+  - ewigheid
+  - ewighede
+  - ewig
+  - ewige
 ---
 
 Ewigheid verwys na God se bestaan buite en bo tyd. Hy het geen begin of einde nie, en ervaar nie tyd soos geskape wesens nie. God is altyd teenwoordig in die volheid van Sy wese — Hy is nie vasgevang in die opeenvolging van oomblikke nie.

@@ -3,6 +3,10 @@ layout: lesson
 course: woordelys
 lesson: 1
 title: "Noodwendigheid"
+variations:
+  - noodwendigheid
+  - noodwendig
+  - noodwendige
 ---
 
 Noodwendigheid (of noodsaaklikheid) verwys na die eienskap van iets wat nie anders kan as om te bestaan nie. ’n Noodwendige wese is een wie se bestaan nie afhanklik is van enigiets anders nie, en wat in alle moontlike werklikhede sou bestaan het. In klassieke teïsme is God so ’n wese.

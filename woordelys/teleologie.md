@@ -3,6 +3,12 @@ layout: lesson
 course: woordelys
 lesson: 1
 title: "Teleologie"
+variations:
+  - teleologie
+  - teleologiese
+  - teleologies
+  - teleoloog
+  - teleoloë
 ---
 
 Teleologie is die filosofiese studie van doelgerigtheid en finale oorsake. Dit ondersoek die vraag of dinge in die natuur na bepaalde doelwitte of eindpunte streef, en of die heelal as geheel 'n oorkoepelende doel het. In die teologie verwys dit na God se ewige plan en die doelgerigtheid wat Hy in die skepping ingebou het.

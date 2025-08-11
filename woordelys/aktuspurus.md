@@ -3,6 +3,11 @@ layout: lesson
 course: woordelys
 lesson: 1
 title: "Aktus Purus"
+variations:
+  - aktus purus
+  - aktuspurus
+  - aktus
+  - purus
 ---
 
 *Aktus Purus* (Latyn vir “suiwer akt”) verwys na die idee dat God geen potensiaal of onvolledigheid in Hom het nie. God is volledig aktualiseer, volkome in Sy wese, en verander nie. Hierdie konsep kom uit die Aristoteliaanse en Thomistiese tradisie van teologie.

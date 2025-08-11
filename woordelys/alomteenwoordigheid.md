@@ -3,6 +3,11 @@ layout: lesson
 course: woordelys
 lesson: 1
 title:  "Alomteenwoordigheid"
+variations:
+  - alomteenwoordigheid
+  - alomteenwoordig
+  - alomteenwoordighede
+  - alomteenwoordighede
 ---
 
 Alomteenwoordigheid verwys na die leer dat God **tegelyk en volkome teenwoordig is op elke plek**. Anders as ’n fisiese wese wat net op een plek op ’n slag kan wees, is God se wese nie gebonde aan ruimte of tyd nie.

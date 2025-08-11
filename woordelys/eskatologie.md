@@ -3,6 +3,12 @@ layout: lesson
 course: woordelys
 lesson: 1
 title: "Eskatologie"
+variations:
+  - eskatologie
+  - eskatologiese
+  - eskatologies
+  - eskatoloog
+  - eskatoloë
 ---
 
 Eskatologie is die teologiese studie van die "laaste dinge" - die finale gebeure in God se heilsplan vir die wêreld. Dit sluit in die wederkoms van Christus, die opstanding van die dooies, die laaste oordeel, die nuwe hemel en aarde, en die ewige toestand van gered en verlore mense.

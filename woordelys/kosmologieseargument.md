@@ -3,6 +3,9 @@ layout: lesson
 course: woordelys
 lesson: 1
 title: "Kosmologiese Argument"
+variations:
+  - kosmologiese argument
+  - kosmologieseargument
 ---
 
 Die kosmologiese argument is ’n filosofiese redenasie wat beweer dat omdat dinge bestaan — en spesifiek omdat dinge nie uit hulleself ontstaan het nie — daar ’n eerste oorsaak of selfstandige grond van alles moet wees. Hierdie eerste oorsaak word geïdentifiseer as God.

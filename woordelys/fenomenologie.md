@@ -3,6 +3,12 @@ layout: lesson
 course: woordelys
 lesson: 1
 title: "Fenomenologie"
+variations:
+  - fenomenologie
+  - fenomenologiese
+  - fenomenologies
+  - fenomenoloog
+  - fenomenoloë
 ---
 
 Fenomenologie is 'n filosofiese beweging en metode wat fokus op die studie van ervaring en bewussyn soos dit aan ons verskyn, sonder voorafgaande teoretiese aannames oor die aard van die werklikheid. Dit ondersoek die strukture van ervaring en betekenis, en probeer om die essensie van verskynsels te beskryf soos hulle in die bewussyn gegee word.

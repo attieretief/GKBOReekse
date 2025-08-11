@@ -3,6 +3,12 @@ layout: lesson
 course: woordelys
 lesson: 1
 title: "Fisikalisme"
+variations:
+  - fisikalisme
+  - fisikalisties
+  - fisikalistiese
+  - fisikalist
+  - fisikaliste
 ---
 
 Fisikalisme is die filosofiese siening dat alles wat bestaan fisies is, of op die fisiese gebaseer is. Volgens hierdie materialisitiese wêreldbeeld kan alle verskynsels - insluitend bewussyn, gedagtes, en emosies - uiteindelik verklaar word in terme van fisiese prosesse soos breinaktiwiteit, chemiese reaksies, en neurale netwerke.

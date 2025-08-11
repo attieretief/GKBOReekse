@@ -3,6 +3,12 @@ layout: lesson
 course: woordelys
 lesson: 1
 title: "Epistemologie"
+variations:
+  - epistemologie
+  - epistemologiese
+  - epistemologies
+  - epistemoloog
+  - epistemoloë
 ---
 
 Epistemologie is die studie van kennis: hoe ons weet wat ons weet, wat ware kennis is, en hoe sekerheid bereik kan word. Dit vra vrae oor persepsie, geloof, waarheid en regverdiging.

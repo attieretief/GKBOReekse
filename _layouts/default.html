@@ -67,6 +67,11 @@
       });
     </script>
 
+    <!-- Woordelys Simple Tooltips -->
+    {% assign user_url = site.url | append: site.baseurl %}
+    {% assign full_base_url = user_url | default: site.github.url %}
+  <script src="{{ "/assets/woordelys-simple.js?v=20250811" | prepend: full_base_url }}"></script>
+
   </body>
 
 </html>

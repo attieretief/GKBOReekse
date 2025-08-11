@@ -3,6 +3,11 @@ layout: lesson
 course: woordelys
 lesson: 1
 title: "Substansie"
+variations:
+  - substansie
+  - substansies
+  - substantief
+  - substantiewe
 ---
 
 Substansie is 'n filosofiese term wat verwys na die fundamentele draer van eienskappe - dit wat onderliggend bestaan en waaraan eienskappe toegeskryf word. 'n Substansie bestaan onafhanklik en dien as die basis waarop aksidente (veranderlike eienskappe) rus. In die metafisika is dit die permanente kern van 'n ding wat deur verandering voortbestaan.

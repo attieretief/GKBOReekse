@@ -3,6 +3,12 @@ layout: lesson
 course: woordelys
 lesson: 1
 title: "Aksidente"
+variations:
+  - aksidente
+  - aksident
+  - aksidenten
+  - aksidentes
+  - aksidentse
 ---
 
 Aksidente is 'n filosofiese term wat verwys na die veranderlike eienskappe of kenmerke van 'n substansie wat nie noodsaaklik vir die substansie se identiteit is nie. Dit is eienskappe wat kan verander sonder dat die ding ophou bestaan. Aksidente is afhanklik van 'n substansie en kan nie onafhanklik bestaan nie.

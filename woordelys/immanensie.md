@@ -3,6 +3,11 @@ layout: lesson
 course: woordelys
 lesson: 1
 title:  "Immanensie"
+variations:
+  - immanensie
+  - immanent
+  - immanente
+  - immanentheid
 ---
 
 Immanensie verwys na die idee dat die goddelike, die werklikheid of die grond van bestaan **aanwesig is binne die wêreld**, eerder as buite of bo dit. In teenstelling met transendensie, beklemtoon immanensie die **nabyskheid, betrokkenheid en teenwoordigheid** van iets in die geskape orde of binne-in die menslike ervaring. Dit beteken dat die betekenis of krag van iets nie afsonderlik van die wêreld bestaan nie, maar ten volle daarin ingebed is.

@@ -3,6 +3,12 @@ layout: lesson
 course: woordelys
 lesson: 1
 title: "Thomisties"
+variations:
+  - thomisties
+  - thomisme
+  - thomistiese
+  - thomist
+  - thomiste
 ---
 
 “Thomisties” verwys na die filosofiese en teologiese tradisie wat gebaseer is op die denke van Thomas van Aquino (1225–1274). Hierdie tradisie kombineer Aristoteliaanse filosofie met Christelike teologie en vorm een van die mees invloedryke raamwerke in Westerse godsdiensfilosofie.

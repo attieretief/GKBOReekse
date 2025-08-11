@@ -3,6 +3,12 @@ layout: lesson
 course: woordelys
 lesson: 1
 title: "Ekklesiologie"
+variations:
+  - ekklesiologie
+  - ekklesiologiese
+  - ekklesiologies
+  - ekklesioloog
+  - ekklesioloë
 ---
 
 Ekklesiologie is die teologiese studie van die kerk - haar aard, doel, struktuur, en funksies. Dit ondersoek vrae soos wat die kerk is, hoe dit georganiseer moet word, wat die rol van ampsdraers is, en hoe die kerk haar roeping in die wêreld vervul. Dit sluit ook die verhouding tussen plaaslike gemeentes en die universele kerk in.

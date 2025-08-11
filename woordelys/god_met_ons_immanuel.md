@@ -3,6 +3,10 @@ layout: lesson
 course: woordelys
 lesson: 1
 title:  "God-met-ons (Immanuel)"
+variations:
+  - god-met-ons
+  - god met ons
+  - immanuel
 ---
 
 “God-met-ons” (Hebreeus: *Immanuel*) is ’n Bybelse titel vir Jesus Christus wat die waarheid uitdruk dat God self **in ons midde gekom woon het**. Dit wys op God se immanensie in die hoogste en mees persoonlike sin.
