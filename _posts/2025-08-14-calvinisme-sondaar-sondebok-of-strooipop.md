@@ -189,5 +189,3 @@ ernstige kritiek teen NP-beleid as kommunisties af te maak.
 As iemand wil, kan hy seker ‘n goeie saak daarvoor uitmaak dat ek self ‘n Calvinis is.
 Darem een wat altyd links van die NP gestem het en vanuit regse geledere al lelike,
 on-Calvinistiese name genoem is.
-
-Douw Krüger
