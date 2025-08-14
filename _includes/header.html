@@ -16,9 +16,28 @@
           {{ site.title }}
         </a>
       </li>
-      {% assign regular_pages = site.pages | where: "layout", "page" | sort: "title" %}
+      {% assign regular_pages = site.pages | where: "layout", "page" | where_exp: "item", "item.permalink != '/posts/'" | sort: "title" %}
       {% assign course_pages = site.pages | where: "layout", "course" | sort: "order" %}
       {% assign all_pages = regular_pages | concat: course_pages %}
+      
+      <!-- Add Posts section -->
+      {% if site.posts.size > 0 %}
+      <li class="mobile-nav-item">
+        <a class="italic no-underline h4" href="{{ site.baseurl }}/posts/">
+          Artikels
+        </a>
+        <ul class="mobile-course-lessons">
+          {% for post in site.posts limit: 10 %}
+          <li class="mobile-lesson-item">
+            <a class="italic no-underline {% if post.url == page.url %}active{% endif %}" href="{{ post.url | prepend: site.baseurl }}">
+              {{ post.title | truncate:30 }}
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+      </li>
+      {% endif %}
+      
       {% for my_page in all_pages %}
         {% if my_page.title %}
         <!-- Check if this is the current course -->
@@ -67,9 +86,32 @@
           {{ site.title }}
         </a>
       </li>
-      {% assign regular_pages = site.pages | where: "layout", "page" | sort: "title" %}
+      {% assign regular_pages = site.pages | where: "layout", "page" | where_exp: "item", "item.permalink != '/posts/'" | sort: "title" %}
       {% assign course_pages = site.pages | where: "layout", "course" | sort: "order" %}
       {% assign all_pages = regular_pages | concat: course_pages %}
+      
+      <!-- Add Posts section -->
+      {% if site.posts.size > 0 %}
+      <li class="inline-block block-lg text-right ml-1 ml-lg-0 course-menu-item">
+        <a class="italic no-underline h4 {% if page.layout == 'post' %}active{% endif %}" href="{{ site.baseurl }}/posts/">
+          Artikels
+        </a>
+        
+        <!-- Show recent posts if we're on a post page -->
+        {% if page.layout == 'post' %}
+        <ul class="course-lessons-menu">
+          {% for post in site.posts limit: 10 %}
+          <li class="course-lesson-item">
+            <a class="italic no-underline {% if post.url == page.url %}active{% endif %}" href="{{ post.url | prepend: site.baseurl }}">
+              {{ post.title | truncate:30}}
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+      </li>
+      {% endif %}
+      
       {% for my_page in all_pages %}
         {% if my_page.title %}
         <!-- Check if this is the current course -->

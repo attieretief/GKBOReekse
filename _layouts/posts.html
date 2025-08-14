@@ -1,0 +1,41 @@
+---
+layout: page
+---
+
+<div class="posts-list">
+  {% for post in site.posts %}
+    <article class="post-item mb-4 pb-4 border-bottom">
+      <header class="post-header">
+        <h2 class="h2 mb-1">
+          <a class="no-underline" href="{{ post.url | prepend: site.baseurl }}">
+            {{ post.title }}
+          </a>
+        </h2>
+        <div class="post-meta text-gray-600 mb-2">
+          <time datetime="{{ post.date | date_to_xmlschema }}">
+            {{ post.date | date: "%b %-d, %Y" }}
+          </time>
+          {% if post.author %}
+            <span class="author"> — deur {{ post.author }}</span>
+          {% endif %}
+        </div>
+      </header>
+      
+      {% if post.excerpt %}
+        <div class="post-excerpt prose">
+          {{ post.excerpt | strip_html | truncatewords: 50 }}
+        </div>
+        <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">Lees meer →</a>
+      {% else %}
+        <div class="post-excerpt prose">
+          {{ post.content | strip_html | truncatewords: 50 }}
+        </div>
+        <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">Lees meer →</a>
+      {% endif %}
+    </article>
+  {% endfor %}
+</div>
+
+{% if site.posts.size == 0 %}
+  <p class="text-gray-600">Geen artikels beskikbaar nie.</p>
+{% endif %}
