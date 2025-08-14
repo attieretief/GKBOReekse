@@ -26,9 +26,19 @@
                 {{ site.title }}
               </a>
             </li>
-            {% assign regular_pages = site.pages | where: "layout", "page" | sort: "title" %}
+            {% assign regular_pages = site.pages | where: "layout", "page" | where_exp: "item", "item.permalink != '/posts/'" | sort: "title" %}
             {% assign course_pages = site.pages | where: "layout", "course" | sort: "order" %}
             {% assign all_pages = regular_pages | concat: course_pages %}
+            
+            <!-- Add Posts section -->
+            {% if site.posts.size > 0 %}
+            <li class="mobile-nav-item">
+              <a class="italic no-underline h4" href="{{ site.baseurl }}/posts/">
+                Artikels
+              </a>
+            </li>
+            {% endif %}
+            
             {% for my_page in all_pages %}
               {% if my_page.title %}
               <li class="mobile-nav-item">
@@ -48,9 +58,17 @@
                 {{ site.title }}
               </a>
               </li>
-            {% assign regular_pages = site.pages | where: "layout", "page" | sort: "title" %}
+            {% assign regular_pages = site.pages | where: "layout", "page" | where_exp: "item", "item.permalink != '/posts/'" | sort: "title" %}
             {% assign course_pages = site.pages | where: "layout", "course" | sort: "order" %}
             {% assign all_pages = regular_pages | concat: course_pages %}
+            
+            <!-- Add Posts section -->
+            {% if site.posts.size > 0 %}
+            <li class="inline-block block-lg text-right ml-1 ml-lg-0">
+              <a class="italic no-underline h4 font-smoothing" href="{{ site.baseurl }}/posts/">Artikels</a>
+            </li>
+            {% endif %}
+            
             {% for my_page in all_pages %}
               {% if my_page.title %}
               <li class="inline-block block-lg text-right ml-1 ml-lg-0">
