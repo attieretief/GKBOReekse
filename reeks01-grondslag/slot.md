@@ -4,6 +4,7 @@ course: reeks01-grondslag
 lesson: 10
 title:  "Slot"
 youtubeurl: "https://youtu.be/4cU7574vCZQ"
+author: Attie Retief
 ---
 
 ### Laaste Gedagte – My Getuienis van Ontsag, Verlange en Lewende Ontmoeting

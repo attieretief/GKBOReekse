@@ -3,6 +3,7 @@ layout: lesson
 course: gkbo
 lesson: 13
 title: "Ideologieë"
+author: Douw Kruger
 ---
 
 ### 13. Ideologieë
@@ -21,3 +22,4 @@ Politieke kommentators word soms as kommuniste, liberaliste of nasionaliste uitg
 Kies ‘n ideologie en beskryf sy eienskappe. In wie se belang is dit? Kan ‘n gelowige daardeur op ‘n dwaalspoor verlei word? Is daar ‘n verskil tussen onmin tussen volke en onmin tussen individue? Kan ‘n persoon se liefde vir sy volk ooit verskonend of versagtend werk? Hoe verklaar ons dit dat iemand wat in sy onmiddelike omgewing na ander uitreik en baie goed doen, maar nie wroeg oor die skade en geweld wat een groep mense teenoor ‘n ander pleeg nie? Byvoorbeeld oorlogsituasies waar die ander party se mense, burgerlikes inkluis, gedood en hulle lewens verwoes word. En wat sê ons vandag van slawerny?
 
 ---
+

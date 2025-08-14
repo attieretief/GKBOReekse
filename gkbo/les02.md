@@ -3,6 +3,7 @@ layout: lesson
 course: gkbo
 lesson: 2
 title: "Die Bybel"
+author: Douw Kruger
 ---
 
 ### 2. Die Bybel

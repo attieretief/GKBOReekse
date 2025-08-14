@@ -3,6 +3,7 @@ layout: lesson
 course: gkbo
 lesson: 14
 title: "Fundamentalisme"
+author: Douw Kruger
 ---
 
 ### 14. Fundamentalisme
@@ -24,3 +25,4 @@ Die essensie van die nagmaal gaan om die eet van die brood en die drink van die 
 Het styl en gebruike dan geen waarde in die kerk nie? Wat is die kruks van die saak? Sê die klemverskuiwing vanaf wettiese reëls en gebruike (Ou Testament) na die liefdesgebod (Nuwe Testament) dalk vir ons iets in hierdie verband?
 
 ---
+

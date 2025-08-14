@@ -3,6 +3,7 @@ layout: lesson
 course: gkbo
 lesson: 12
 title: "Is daar in die Bybel 'n duidelike reël vir elke probleem wat mag opduik?"
+author: Douw Kruger
 ---
 
 ### 12. Is daar in die Bybel 'n duidelike reël vir elke probleem wat mag opduik?
@@ -22,3 +23,5 @@ Maar alle probleme het nie altyd maklike antwoorde nie. Soms moet ons wroeg oor 
 
 **Om oor na te dink:**  
 Watter probleme het vir jou nie 'n duidelike antwoord nie? Wat van genadedood, die beëindiging van 'n swangerskap wat risiko's vir moeder en kind inhou? Wat dink ons van transgender kwessies? Is daar altyd klinkklare antwoorde? Beteken die lering van Jesus in Matheus 5:37-48 dat ek myself altyd moet opoffer? Waar trek ek die streep? Is dit nie dalk so dat as ek te opofferend is ek die ander persoon se wangedrag bevorder en uiteindelik daardeur ander mense ook benadeel nie? Vandag is voorbehoeding die norm, maar in die middel van die vorige eeu is dit as onchristelik beskou. Wat sou die beredenering hieragter gewees het? Hoe hanteer ons 'n situasie waar 'n kind of ander geliefde keuses maak waarmee ons 'n beginselprobleem het? Verstaan ons dat ons nie alles kan beheer nie? Verstaan ons dat die liefde behoue moet bly en dat daar sake is wat ons in die hande van die Here moet laat? En dat ons moet nadink oor wat die Here moontlik vir ons daardeur wil leer. Dinge soos nederigheid, afhanklikheid van Hom, 'n dieper empatie met ons naaste en sulke dinge.
+
+---

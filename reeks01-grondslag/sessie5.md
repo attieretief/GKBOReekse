@@ -6,6 +6,7 @@ title:  "Sessie 5"
 youtubeurl: "https://youtu.be/bO-Wg1JNnIM"
 youtube_start: 983
 youtube_end: 1115
+author: Attie Retief
 ---
 
 # Die Raaisel van Gees en Bewussyn

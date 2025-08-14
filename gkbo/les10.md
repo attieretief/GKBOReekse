@@ -3,6 +3,7 @@ layout: lesson
 course: gkbo
 lesson: 10
 title: "Gesprek tussen gelowige en ongelowige"
+author: Douw Kruger
 ---
 
 ### 10. Gesprek tussen gelowige en ongelowige

@@ -3,6 +3,7 @@ layout: lesson
 course: gkbo
 lesson: 16
 title: "Kwessies waarmee die ongelowige wêreld gelowiges voortdurend konfronteer"
+author: Douw Kruger
 ---
 
 ### 16. Kwessies waarmee die ongelowige wêreld gelowiges voortdurend konfronteer
@@ -90,3 +91,4 @@ God se hart is dat alle mense hulle sal bekeer en gered sal word, en nie dat men
 En weereens baie belangrik, ons verstaan net ten dele. Ons ken die wil en plan van God net ten dele. Daar sal altyd aspekte van die lewe wees wat ons nie 100% verstaan nie. As ons elke enkele gebeurtenis kon verklaar, dan was ons gelyk aan God. Dit moet ons ook erken en aanvaar.
 
 ---
+

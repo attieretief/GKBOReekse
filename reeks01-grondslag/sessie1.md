@@ -6,6 +6,7 @@ title:  "Sessie 1"
 youtubeurl: "https://youtu.be/bO-Wg1JNnIM"
 youtube_start: 529
 youtube_end: 630
+author: Attie Retief
 ---
 # Die Definisie van “God” in Klassieke Teïsme
 

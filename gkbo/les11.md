@@ -3,6 +3,7 @@ layout: lesson
 course: gkbo
 lesson: 11
 title: "Kerk, Geloof en Samelewing"
+author: Douw Kruger
 ---
 
 ### 11. Kerk, Geloof en Samelewing

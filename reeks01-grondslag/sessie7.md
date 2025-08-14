@@ -7,6 +7,7 @@ youtubeurl: "https://youtu.be/bO-Wg1JNnIM"
 youtube_start: 1233
 youtube_end: 1350
 youtube_end: 1393
+author: Attie Retief
 ---
 
 # Menslike verlange na die Oneindige

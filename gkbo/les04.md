@@ -3,6 +3,7 @@ layout: lesson
 course: gkbo
 lesson: 4
 title: "Hoe word die Christelike geloof vandag uitgedaag?"
+author: Douw Kruger
 ---
 
 ### 4. Hoe word die Christelike geloof vandag uitgedaag?

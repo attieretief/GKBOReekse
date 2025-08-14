@@ -6,6 +6,7 @@ title:  "Sessie 4"
 youtubeurl: "https://youtu.be/bO-Wg1JNnIM"
 youtube_start: 861
 youtube_end: 983
+author: Attie Retief
 ---
 
 # God as die Werklikheid agter alle Werklikhede (Transendensie en Immanensie)

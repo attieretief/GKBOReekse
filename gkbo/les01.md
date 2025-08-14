@@ -3,6 +3,7 @@ layout: lesson
 course: gkbo
 lesson: 1
 title: "Waar begin ons?"
+author: Douw Kruger
 ---
 
 ### 1. Waar begin ons?

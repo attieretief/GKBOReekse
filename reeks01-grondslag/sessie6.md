@@ -6,6 +6,7 @@ title:  "Sessie 6"
 youtubeurl: "https://youtu.be/bO-Wg1JNnIM"
 youtube_start: 1116
 youtube_end: 1232
+author: Attie Retief
 ---
 
 # Die Menslike Soeke na Waarde – Gerigtheid, Moraliteit en Doel

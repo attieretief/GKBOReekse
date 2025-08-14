@@ -3,6 +3,7 @@ layout: lesson
 course: gkbo
 lesson: 6
 title: "Die gesag van die Bybel"
+author: Douw Kruger
 ---
 
 ### 6. Die gesag van die Bybel

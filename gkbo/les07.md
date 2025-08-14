@@ -3,6 +3,7 @@ layout: lesson
 course: gkbo
 lesson: 7
 title: "Kerkbesoek en godsdiensbeoefening"
+author: Douw Kruger
 ---
 
 ### 7. Kerkbesoek en godsdiensbeoefening
@@ -27,3 +28,4 @@ Ons moet ook oor die rol van die kerkgebou nadink. Dit is ‘n plek van samekoms
 Besef jy wat jou voorbeeld aan die geloofslewe van jou kinders en familie kan doen as jy jouself van die geloofsgemeenskap vervreem? Dalk ‘n moeiliker vraag: Gaan die kerkgemeenskap in die rigting van ‘n eKerk of ‘n eGemeenskap neig, soos wat besighede in ander gemeenskappe doen? Kan die geloofsgemeenskap produktief funksioneer as eKerk, vandag of oor 30 jaar?
 
 ---
+

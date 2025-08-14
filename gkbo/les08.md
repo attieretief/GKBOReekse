@@ -3,6 +3,7 @@ layout: lesson
 course: gkbo
 lesson: 8
 title: "Christelike apologetiek"
+author: Douw Kruger
 ---
 
 ### 8. Christelike apologetiek

@@ -3,6 +3,7 @@ layout: lesson
 course: reeks01-grondslag
 lesson: 98
 title:  "Kontroversie"
+author: Attie Retief
 ---
 # 'n Persoonlike Nota oor *Reeks 1* en ons Gereformeerde Belydenis
 

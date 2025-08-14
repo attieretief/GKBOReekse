@@ -6,6 +6,7 @@ title:  "Sessie 3"
 youtubeurl: "https://youtu.be/bO-Wg1JNnIM"
 youtube_start: 746
 youtube_end: 860
+author: Attie Retief
 ---
 
 # “Hoekom is daar iets eerder as niks?” – Die Vraag na Bestaan

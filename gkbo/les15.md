@@ -3,6 +3,7 @@ layout: lesson
 course: gkbo
 lesson: 15
 title: "Geloof en Wetenskap"
+author: Douw Kruger
 ---
 
 ### 15. Geloof en Wetenskap
@@ -19,3 +20,4 @@ Maar dat die wêreld ordelik (wetmatig) geskape is deur ‘n Skepper wat buite d
 Ons vind ‘n grondige uiteensetting van die wetmatige funksionering van stof, plant, dier en mens in die Wysbegeerte van die Wetsidee van die Nederlandse Calvinistiese filosoof, Herman Dooyeweerd.
 
 ---
+

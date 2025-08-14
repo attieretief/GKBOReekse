@@ -3,6 +3,7 @@ layout: lesson
 course: gkbo
 lesson: 3
 title: "Die wêreld, geloof en geloofsgemeenskap"
+author: Douw Kruger
 ---
 
 ### 3. Die wêreld, geloof en geloofsgemeenskap

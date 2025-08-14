@@ -3,6 +3,7 @@ layout: lesson
 course: gkbo
 lesson: 5
 title: "Geloof - is dit aanvaarding of denke, is dit die hart of die verstand?"
+author: Douw Kruger
 ---
 
 ### 5. Geloof - is dit aanvaarding of denke, is dit die hart of die verstand?

@@ -3,6 +3,7 @@ layout: lesson
 course: gkbo
 lesson: 9
 title: "Hoe loop die pad na geloof … of na ongeloof?"
+author: Douw Kruger
 ---
 
 ### 9. Hoe loop die pad na geloof … of na ongeloof?

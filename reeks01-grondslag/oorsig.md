@@ -3,6 +3,7 @@ layout: lesson
 course: reeks01-grondslag
 lesson: 1
 title:  "Oorsig"
+author: Attie Retief
 ---
 # 'n Metafisiese Ontdekking van God
 

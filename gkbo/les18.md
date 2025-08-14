@@ -3,6 +3,7 @@ layout: lesson
 course: gkbo
 lesson: 18
 title: "Ten Slotte"
+author: Douw Kruger
 ---
 
 ## Ten Slotte

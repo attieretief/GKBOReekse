@@ -6,6 +6,7 @@ title:  "Sessie 8"
 youtubeurl: "https://youtu.be/bO-Wg1JNnIM"
 youtube_start: 1351
 youtube_end: 1500
+author: Attie Retief
 ---
 
 # Einde van die Reis – en Begin van die Reis: Om God te Soek en te Ervaar

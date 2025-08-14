@@ -3,6 +3,7 @@ layout: lesson
 course: gkbo
 lesson: 17
 title: "Die Eindtyd en die Wederkoms van Christus"
+author: Douw Kruger
 ---
 
 ### 17. Die Eindtyd en die Wederkoms van Christus
@@ -28,3 +29,4 @@ En vers 42:
 Ons moet daarna uitsien en altyd voorbereid wees. Net soos wat ek voorbereid moet wees dat die einde van my eie lewe enige tyd kan aanbreek en dat dit net so lotsbepalend vir my is as die wederkoms van die Seun van God.
 
 ---
+
