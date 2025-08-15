@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Calvinisme – sondaar, sondebok of strooipop?"
-date: 2025-08-14
+date: 2022-04-30
 categories: [menings, geskiedenis]
 tags: ["Calvinisme", "Afrikaner-Nasionalisme", "Dooyeweerd"]
 author: Douw Kruger

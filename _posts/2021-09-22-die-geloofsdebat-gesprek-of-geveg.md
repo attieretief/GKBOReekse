@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Die geloofsdebat – ‘n gesprek of ‘n geveg?"
-date: 2025-08-14
+date: 2021-09-22
 categories: [menings, geloof]
 tags: ["geloofsdebat", "skepping", "rede"]
 author: Douw Kruger
