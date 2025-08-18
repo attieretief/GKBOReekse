@@ -7,6 +7,10 @@ tags: ["Calvinisme", "Afrikaner-Nasionalisme", "Dooyeweerd"]
 author: Douw Kruger
 ---
 
+```
+Oorspronklik geskryf vir publikasie in "Die Vrye Weekblad"
+```
+
 ‘n Ruk gelede lees ek wat iemand oor Calvinisme skryf - die wortel van die kwaad as
 dit kom by die sondes van Afrikaner-Nasionalisme en Apartheid. Dit was nie die
 eerste keer wat ek so-iets lees nie. Daar word sporadies sulke sydelingse opmerkings

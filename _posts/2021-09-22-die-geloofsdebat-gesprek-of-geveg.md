@@ -7,7 +7,11 @@ tags: ["geloofsdebat", "skepping", "rede"]
 author: Douw Kruger
 ---
 
-It has been said that an argument is what convinces reasonable men and a proof is
+```
+Oorspronklik geskryf vir publikasie in "Die Vrye Weekblad"
+```
+
+> It has been said that an argument is what convinces reasonable men and a proof is
 what it takes to convince even an unreasonable man - Alexander Vilenkin.
 
 Geloofskwessies het al ‘n paar keer hier in VWB ter sprake gekom. Ek meen meer
