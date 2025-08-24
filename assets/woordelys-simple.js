@@ -16,13 +16,13 @@ class WoordelysTooltips {
     async loadWoordelysPages() {
         try {
             // Dynamically discover all woordelys HTML files by scraping the woordelys index page
-            const indexUrl = '/GKBOReekse/woordelys.html';
+            const indexUrl = '/aletheia/woordelys.html';
             const indexRes = await fetch(indexUrl);
             const indexHtml = await indexRes.text();
             const parser = new DOMParser();
             const indexDoc = parser.parseFromString(indexHtml, 'text/html');
             // Find all links to woordelys entries
-            const links = Array.from(indexDoc.querySelectorAll('a[href^="/GKBOReekse/woordelys/"]'));
+            const links = Array.from(indexDoc.querySelectorAll('a[href^="/aletheia/woordelys/"]'));
             const pageUrls = links
                 .map(a => a.getAttribute('href'))
                 .filter(href => href.endsWith('.html'));

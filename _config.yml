@@ -18,9 +18,9 @@ subtitle: "'n Versameling van gespreksgidse oor die Christelike geloof"
 description: saamgestel deur Attie Retief vir gebruik deur besprekingsgroepe van die Gereformeerde Kerk Bellville Oos
 # GitHub Pages will automatically set baseurl to the repository name
 # For local development, use empty baseurl
-baseurl: "/GKBOReekse" # the subpath of your site, e.g. /blog
+baseurl: "/aletheia" # the subpath of your site, e.g. /blog
 url: "https://attieretief.github.io" # the base hostname & protocol for your site
-github_repo: GKBOReekse # the GitHub repo name for your project
+github_repo: aletheia # the GitHub repo name for your project
 github_username: attieretief # your GitHub username
 owner: Attie Retief
 
