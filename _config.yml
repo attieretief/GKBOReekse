@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Wêreldbeskouing
-subtitle: "'n Versameling van gespreksgidse oor die Christelike geloof"
-description: saamgestel deur Attie Retief vir gebruik deur besprekingsgroepe van die Gereformeerde Kerk Bellville Oos
+title: Aletheia
+subtitle: "'n Soeke na Waarheid in die Christelike geloof"
+description: saamgestel deur Attie Retief
 # GitHub Pages will automatically set baseurl to the repository name
 # For local development, use empty baseurl
 baseurl: "/aletheia" # the subpath of your site, e.g. /blog

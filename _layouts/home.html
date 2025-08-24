@@ -9,6 +9,13 @@
 
       <header class="clearfix">
 
+        <!-- Logo in top left corner -->
+        <div class="site-logo">
+          <a href="{{ site.baseurl }}/">
+            <img src="{{ '/assets/images/aletheia.png' | prepend: site.baseurl }}" alt="{{ site.title }}" class="logo-image">
+          </a>
+        </div>
+
         <!-- Mobile hamburger menu button -->
         <div class="mobile-menu-toggle absolute right-0 top-0 mt-2 mr-2">
           <button class="hamburger-btn" onclick="toggleMobileMenu()">

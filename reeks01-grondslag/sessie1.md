@@ -209,7 +209,7 @@ Deur hierdie verse tesame met Hart se insigte te bestudeer, sien ons dat klassie
 
 ## Ten slotte
 
-Sessie 1 se verkenning stel die toneel vir die res van ons reis. Ons het duidelik gemaak **“wat ons bedoel met God”** in die klassieke sin – ’n almagtige, alwetende, algoeie Wese wat die grondslag van die werklikheid self is. Met hierdie fondasie kan ons in die komende weke verder gaan om te ondersoek wat David Bentley Hart en ander sê oor die ervaring van God (in gewete, in gebed, in Christus, ens.), met die wete dat ons praat van die **Bron van ons wese self**.
+Sessie 1 se verkenning stel die toneel vir die res van ons reis. Ons het duidelik gemaak **“wat ons bedoel met God”** in die klassieke sin – ’n almagtige, alwetende, algoeie Wese wat die grondslag van die werklikheid self is. Met hierdie fondasie kan ons in die komende sessies verder gaan om te ondersoek wat David Bentley Hart en ander sê oor die ervaring van God (in gewete, in gebed, in Christus, ens.), met die wete dat ons praat van die **Bron van ons wese self**.
 
 Hopelik lei hierdie uitgebreide begrip ons nie net tot intellektuele insig nie, maar ook tot ’n dieper eerbied en liefde vir God – die Een *“in whom we live and move and have our being,”* en in wie alleen ons rustelose harte rus vind.
 

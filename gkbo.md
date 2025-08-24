@@ -2,7 +2,7 @@
 layout: course
 course_name: gkbo
 title: "GKBO Lewensbeskouing"
-order: 1
+order: 94
 ---
 
 ## Inleiding

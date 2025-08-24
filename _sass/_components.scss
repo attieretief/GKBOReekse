@@ -205,6 +205,58 @@ code {
   }
 }
 
+// Site logo
+.site-logo {
+  position: fixed;
+  top: 8px;
+  left: 8px;
+  z-index: 1001; // Higher than sticky header
+  display: none; // Hidden on mobile by default
+  
+  a {
+    text-decoration: none !important;
+    border: none !important;
+    
+    &:hover {
+      text-decoration: none !important;
+      border: none !important;
+    }
+  }
+  
+  .logo-image {
+    width: 240px;
+    height: 240px;
+    object-fit: contain;
+    border-radius: 18px;
+    transition: opacity 0.2s ease;
+    border: none !important;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+  
+  @media (min-width: $breakpoint-lg) {
+    display: block; // Show on desktop
+    top: 12px;
+    left: 12px;
+    
+    .logo-image {
+      width: 346px;
+      height: 346px;
+      border-radius: 29px;
+    }
+  }
+}
+
+// Add padding to body to prevent content from going under the logo (desktop only)
+body {
+  @media (min-width: $breakpoint-lg) {
+    padding-left: 308px; // Keep original spacing, logo fills the available space
+  }
+}
+
 // Hide home page navigation on mobile
 @media (max-width: $breakpoint-lg) {
   .right.absolute-lg {

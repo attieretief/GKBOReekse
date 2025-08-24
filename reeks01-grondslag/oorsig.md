@@ -9,7 +9,7 @@ author: Attie Retief
 
 ## Inleiding
 
-Oor die volgende paar maande gaan ons saam ’n ontdekkingsreis aanpak — nie net oor wat ons glo nie, maar oor **hoekom** ons dit glo, en **wie** hierdie God is wat ons bely. Ons wil die fondamente van die Christelike wêreldbeskouing ondersoek — die diep vrae oor God se bestaan, Sy aard, en hoe ons Hom werklik kan ken en ervaar.
+Oor die volgende paar sessies gaan ons saam ’n ontdekkingsreis aanpak — nie net oor wat ons glo nie, maar oor **hoekom** ons dit glo, en **wie** hierdie God is wat ons bely. Ons wil die fondamente van die Christelike wêreldbeskouing ondersoek — die diep vrae oor God se bestaan, Sy aard, en hoe ons Hom werklik kan ken en ervaar.
 
 Ons doen dit as ’n Gereformeerde gemeente, met die Skrif as ons hoogste gesag (*Sola Scriptura*), maar ook met die vrymoedigheid om te leer by die groot denkers en gelowiges deur die eeue: Augustinus, Thomas Aquinas, Johannes Calvyn, Herman Bavinck, Alvin Plantinga, en ander. Hulle het almal in hulle eie tye probeer om God lief te hê met **hart, siel én verstand** (Markus 12:30).
 
