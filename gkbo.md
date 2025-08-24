@@ -1,7 +1,7 @@
 ---
 layout: course
 course_name: gkbo
-title: "GKBO Lewensbeskouing"
+title: "Lewensbeskouing"
 order: 94
 ---
 
