@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="124.962 138.733 825.7 697.93">
+  <defs>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="514.352" cy="400.716" r="205.542" id="gradient-0" gradientTransform="matrix(1.473965, -0.014431, 0.0157, 1.603764, -250.61063, -239.793297)" spreadMethod="pad">
+      <stop offset="0" style="stop-color: rgb(254, 207, 207);"/>
+      <stop offset="1" style="stop-color: rgb(171, 34, 34);"/>
+    </radialGradient>
+  </defs>
+  <rect x="49.668" y="63.49" width="938.394" height="998.288" rx="13" ry="13" style="stroke: rgb(0, 0, 0); fill: rgb(181, 69, 69);"/>
+  <path d="M 357.573 166.889 L 668.657 166.889 C 696.271 166.889 718.657 189.275 718.657 216.889 L 718.657 629.349 C 718.657 656.963 696.271 679.349 668.657 679.349 L 654.531 679.349 C 623.124 635.476 571.731 606.885 513.659 606.885 C 455.587 606.885 404.194 635.476 372.787 679.349 L 357.573 679.349 C 329.959 679.349 307.573 656.963 307.573 629.349 L 307.573 216.889 C 307.573 189.275 329.959 166.889 357.573 166.889 Z" style="stroke-linejoin: round; stroke-linecap: round; stroke-width: 16px; fill: url(&quot;#gradient-0&quot;); stroke: rgb(252, 246, 231);"/>
+  <path style="fill: none; stroke-width: 30px; stroke: rgb(252, 246, 231);" d="M 514.559 302.86 L 513.089 599.791"/>
+  <path style="fill: none; stroke-width: 30; transform-box: fill-box; transform-origin: 50% 50%; stroke: rgb(252, 246, 231);" d="M 513.731 308.301 L 513.413 483.462" transform="matrix(0, 1, -1, 0, -0.000009, 0.000014)"/>
+  <text style="fill: rgb(252, 246, 231); font-family: &quot;Noto Serif Kannada&quot;; font-size: 150px; font-weight: 600; white-space: pre;" x="137.186" y="812.475">ALETHEIA</text>
+</svg>

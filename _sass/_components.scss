@@ -208,8 +208,8 @@ code {
 // Site logo
 .site-logo {
   position: fixed;
-  top: 8px;
-  left: 8px;
+  top: 0;
+  left: 0;
   z-index: 1001; // Higher than sticky header
   display: none; // Hidden on mobile by default
   
@@ -238,14 +238,19 @@ code {
   }
   
   @media (min-width: $breakpoint-lg) {
-    display: block; // Show on desktop
-    top: 12px;
-    left: 12px;
+    display: flex; // Use flexbox for centering
+    justify-content: center; // Center horizontally
+    align-items: flex-start; // Align to top
+    background-color: $burgundy; // Match the logo's background color
+    width: 308px; // Full width of the left container
+    min-height: 100vh; // Minimum full height of viewport, extends with content
+    padding: 40px 20px; // Add padding around the logo (top/bottom: 40px, left/right: 20px)
     
     .logo-image {
-      width: 346px;
-      height: 346px;
-      border-radius: 29px;
+      width: 260px; // Slightly smaller to account for padding
+      height: 260px;
+      border-radius: 0; // Remove rounded corners
+      box-shadow: none; // Remove drop shadow
     }
   }
 }
